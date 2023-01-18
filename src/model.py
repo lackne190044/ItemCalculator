@@ -12,8 +12,6 @@ class Item(Base):
     item_id = sqlalchemy.Column(sqlalchemy.Integer, primary_key=True)
     item_name = sqlalchemy.Column(sqlalchemy.String)
 
-    items_needed = relationship("Item", backref="Items_needed")
-
     def __repr__(self) -> str:
         return str(self.item_name)
 
@@ -28,5 +26,5 @@ class Recipe(Base):
     resource_id = sqlalchemy.Column(sqlalchemy.Integer,
                                 sqlalchemy.ForeignKey("item.item_id"),
                                 nullable=False)
-    __table_args__ = (sqlalchemy.UniqueConstraint('item_id', 'resource_id', name="PartofItem"))
+    __table_args__ = (sqlalchemy.PrimaryKeyConstraint('item_id', 'resource_id', name='PartofItem'), )
 
