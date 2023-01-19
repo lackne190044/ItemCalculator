@@ -1,0 +1,1852 @@
+AbeeminationAbeemination	
+
+    Honey BlockHoney Block (5)
+    StingerStinger
+    HiveHive (5)
+    Bottled HoneyBottled Honey
+
+Active Stone BlockActive Stone Block	
+
+    Stone BlockStone Block
+    WireWire
+
+Aether CampfireAether Campfire	
+
+    Any WoodAny Wood (10)
+    Aether TorchAether Torch (5)
+
+Amber Bunny CageAmber Bunny Cage	
+
+    TerrariumTerrarium
+    Amber BunnyAmber Bunny
+
+Amber GemcornAmber Gemcorn	
+
+    AcornAcorn
+    AmberAmber
+
+Amber Squirrel CageAmber Squirrel Cage	
+
+    TerrariumTerrarium
+    Amber SquirrelAmber Squirrel
+
+Amethyst Bunny CageAmethyst Bunny Cage	
+
+    TerrariumTerrarium
+    Amethyst BunnyAmethyst Bunny
+
+Amethyst GemcornAmethyst Gemcorn	
+
+    AcornAcorn
+    AmethystAmethyst
+
+Amethyst Squirrel CageAmethyst Squirrel Cage	
+
+    TerrariumTerrarium
+    Amethyst SquirrelAmethyst Squirrel
+
+Ash WoodAsh Wood	
+
+    Ash Wood PlatformAsh Wood Platform (2)
+
+Ash Wood PlatformAsh Wood Platform (2)	
+
+    Ash WoodAsh Wood
+
+Ash Wood Work BenchAsh Wood Work Bench	
+
+    Ash WoodAsh Wood (10)
+
+Balloon PlatformBalloon Platform (2)	
+
+    Any BalloonAny Balloon
+
+Balloon Work BenchBalloon Work Bench	
+
+    Any BalloonAny Balloon (10)
+
+BambooBamboo	
+
+    Bamboo PlatformBamboo Platform (2)
+
+Bamboo PlatformBamboo Platform (2)	
+
+    BambooBamboo
+
+Bamboo Work BenchBamboo Work Bench	
+
+    BambooBamboo (10)
+
+Bird CageBird Cage	
+
+    TerrariumTerrarium
+    BirdBird
+
+Black Dragonfly JarBlack Dragonfly Jar	
+
+    Black DragonflyBlack Dragonfly
+    BottleBottle
+
+Black Scorpion CageBlack Scorpion Cage	
+
+    TerrariumTerrarium
+    Black ScorpionBlack Scorpion
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Black StringBlack String	
+
+    White StringWhite String
+    Black DyeBlack Dye
+
+Blood WaterBlood Water (10)	
+
+    Bottled WaterBottled Water (10)
+    Crimsand BlockCrimsand Block
+    Crimson SeedsCrimson Seeds
+
+Console version Mobile version only:
+Blue BrickBlue Brick	
+
+    Blue Brick PlatformBlue Brick Platform (2)
+
+Console version Mobile version only:
+Blue Brick PlatformBlue Brick Platform (2)	
+
+    Blue BrickBlue Brick
+
+Blue Dragonfly JarBlue Dragonfly Jar	
+
+    Blue DragonflyBlue Dragonfly
+    BottleBottle
+
+Blue Fairy JarBlue Fairy Jar	
+
+    BottleBottle
+    Blue FairyBlue Fairy
+
+Blue Jay CageBlue Jay Cage	
+
+    TerrariumTerrarium
+    Blue JayBlue Jay
+
+Blue Jellyfish JarBlue Jellyfish Jar	
+
+    Blue Jellyfish (bait)Blue Jellyfish (bait)
+    Bottled WaterBottled Water
+
+Blue Macaw CageBlue Macaw Cage	
+
+    TerrariumTerrarium
+    Blue MacawBlue Macaw
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Blue StringBlue String	
+
+    White StringWhite String
+    Blue DyeBlue Dye
+
+Console version Mobile version tModLoader version only:
+Blue TorchBlue Torch (10)	
+
+    TorchTorch (10)
+    SapphireSapphire
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Blue TorchBlue Torch (3)	
+
+    TorchTorch (3)
+    SapphireSapphire
+
+BoneBone	
+
+    Bone PlatformBone Platform (2)
+
+Bone CampfireBone Campfire	
+
+    Any WoodAny Wood (10)
+    Bone TorchBone Torch (5)
+
+Console version Mobile version tModLoader version only:
+Bone PlatformBone Platform (2)	
+
+    BoneBone
+
+Nintendo 3DS version only:
+Bone Work BenchBone Work Bench	
+
+    BoneBone (10)
+
+Boreal WoodBoreal Wood	
+
+    Boreal Wood PlatformBoreal Wood Platform (2)
+
+Boreal Wood PlatformBoreal Wood Platform (2)	
+
+    Boreal WoodBoreal Wood
+
+Boreal Wood Work BenchBoreal Wood Work Bench	
+
+    Boreal WoodBoreal Wood (10)
+
+Bouncy BombBouncy Bomb	
+
+    BombBomb
+    Pink GelPink Gel
+
+Bouncy DynamiteBouncy Dynamite	
+
+    DynamiteDynamite
+    Pink GelPink Gel
+
+Bouncy GlowstickBouncy Glowstick (5)	
+
+    GlowstickGlowstick (5)
+    Pink GelPink Gel
+
+Bouncy GrenadeBouncy Grenade (2)	
+
+    GrenadeGrenade (2)
+    Pink GelPink Gel
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Brown StringBrown String	
+
+    White StringWhite String
+    Brown DyeBrown Dye
+
+Buggy CageBuggy Cage	
+
+    TerrariumTerrarium
+    BuggyBuggy
+
+Bunny CageBunny Cage	
+
+    TerrariumTerrarium
+    BunnyBunny
+
+CactusCactus	
+
+    Cactus PlatformCactus Platform (2)
+
+Console version Mobile version tModLoader version only:
+Cactus PlatformCactus Platform (2)	
+
+    CactusCactus
+
+Cactus Work BenchCactus Work Bench	
+
+    CactusCactus (10)
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+CampfireCampfire	
+
+    Any WoodAny Wood (10)
+    TorchTorch (5)
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+CampfireCampfire	
+
+    Any WoodAny Wood (20)
+    TorchTorch (5)
+
+Cardinal CageCardinal Cage	
+
+    TerrariumTerrarium
+    CardinalCardinal
+
+CogCog	
+
+    Steampunk PlatformSteampunk Platform (2)
+
+Copper CoinCopper Coin (100)	
+
+    Silver CoinSilver Coin
+
+Coral CampfireCoral Campfire	
+
+    Any WoodAny Wood (10)
+    Coral TorchCoral Torch (5)
+
+Coral TorchCoral Torch (3)	
+
+    TorchTorch (3)
+    CoralCoral
+
+Corrupt CampfireCorrupt Campfire	
+
+    Any WoodAny Wood (10)
+    Corrupt TorchCorrupt Torch (5)
+
+Corrupt TorchCorrupt Torch (3)	
+
+    TorchTorch (3)
+    Ebonstone BlockEbonstone Block
+
+    TorchTorch (3)
+    Purple Ice BlockPurple Ice Block
+
+    TorchTorch (3)
+    Hardened Ebonsand BlockHardened Ebonsand Block
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Corruption KeyCorruption Key	
+
+    Temple KeyTemple Key
+    Corruption Key MoldCorruption Key Mold
+    Soul of FrightSoul of Fright (5)
+    Soul of MightSoul of Might (5)
+    Soul of SightSoul of Sight (5)
+
+Crimson CampfireCrimson Campfire	
+
+    Any WoodAny Wood (10)
+    Crimson TorchCrimson Torch (5)
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Crimson KeyCrimson Key	
+
+    Temple KeyTemple Key
+    Crimson Key MoldCrimson Key Mold
+    Soul of FrightSoul of Fright (5)
+    Soul of MightSoul of Might (5)
+    Soul of SightSoul of Sight (5)
+
+Crimson TorchCrimson Torch (3)	
+
+    TorchTorch (3)
+    Crimstone BlockCrimstone Block
+
+    TorchTorch (3)
+    Red Ice BlockRed Ice Block
+
+    TorchTorch (3)
+    Hardened Crimsand BlockHardened Crimsand Block
+
+Crystal BlockCrystal Block	
+
+    Crystal PlatformCrystal Platform (2)
+
+Crystal DartCrystal Dart (100)	
+
+    Crystal ShardCrystal Shard
+
+Crystal PlatformCrystal Platform (2)	
+
+    Crystal BlockCrystal Block
+
+Crystal Work BenchCrystal Work Bench	
+
+    Crystal BlockCrystal Block (25)
+
+Cursed CampfireCursed Campfire	
+
+    Any WoodAny Wood (10)
+    Cursed TorchCursed Torch (5)
+
+Cursed DartCursed Dart (100)	
+
+    Cursed FlameCursed Flame
+
+Cursed FlareCursed Flare (33)	
+
+    FlareFlare (33)
+    Cursed FlameCursed Flame
+
+Cursed TorchCursed Torch (33)	
+
+    TorchTorch (33)
+    Cursed FlameCursed Flame
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Cyan StringCyan String	
+
+    White StringWhite String
+    Cyan DyeCyan Dye
+
+Demon CampfireDemon Campfire	
+
+    Any WoodAny Wood (10)
+    Demon TorchDemon Torch (5)
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Demon TorchDemon Torch (3)	
+
+    TorchTorch (3)
+    ObsidianObsidian
+
+Desert CampfireDesert Campfire	
+
+    Any WoodAny Wood (10)
+    Desert TorchDesert Torch (5)
+
+Desert TorchDesert Torch (3)	
+
+    TorchTorch (3)
+    Hardened Sand BlockHardened Sand Block
+
+    TorchTorch (3)
+    Hardened Ebonsand BlockHardened Ebonsand Block
+
+    TorchTorch (3)
+    Hardened Crimsand BlockHardened Crimsand Block
+
+    TorchTorch (3)
+    Hardened Pearlsand BlockHardened Pearlsand Block
+
+Diamond Bunny CageDiamond Bunny Cage	
+
+    TerrariumTerrarium
+    Diamond BunnyDiamond Bunny
+
+Diamond GemcornDiamond Gemcorn	
+
+    AcornAcorn
+    DiamondDiamond
+
+Diamond Squirrel CageDiamond Squirrel Cage	
+
+    TerrariumTerrarium
+    Diamond SquirrelDiamond Squirrel
+
+Dirt BombDirt Bomb	
+
+    BombBomb
+    Dirt BlockDirt Block (25)
+
+Dry BombDry Bomb	
+
+    Wet BombWet Bomb
+
+    Lava BombLava Bomb
+
+    Honey BombHoney Bomb
+
+Dry RocketDry Rocket	
+
+    Wet RocketWet Rocket
+
+    Lava RocketLava Rocket
+
+    Honey RocketHoney Rocket
+
+Duck CageDuck Cage	
+
+    TerrariumTerrarium
+    DuckDuck
+
+Dynasty WoodDynasty Wood	
+
+    Dynasty Wood PlatformDynasty Wood Platform (2)
+
+Dynasty Wood PlatformDynasty Wood Platform (2)	
+
+    Dynasty WoodDynasty Wood
+
+Dynasty Work BenchDynasty Work Bench	
+
+    Dynasty WoodDynasty Wood (10)
+
+EbonwoodEbonwood	
+
+    Ebonwood PlatformEbonwood Platform (2)
+
+Ebonwood PlatformEbonwood Platform (2)	
+
+    EbonwoodEbonwood
+
+Ebonwood Work BenchEbonwood Work Bench	
+
+    EbonwoodEbonwood (10)
+
+Echo BlockEcho Block	
+
+    Echo PlatformEcho Platform (2)
+
+Echo PlatformEcho Platform (2)	
+
+    Echo BlockEcho Block
+
+Emerald Bunny CageEmerald Bunny Cage	
+
+    TerrariumTerrarium
+    Emerald BunnyEmerald Bunny
+
+Emerald GemcornEmerald Gemcorn	
+
+    AcornAcorn
+    EmeraldEmerald
+
+Emerald Squirrel CageEmerald Squirrel Cage	
+
+    TerrariumTerrarium
+    Emerald SquirrelEmerald Squirrel
+
+Console version Mobile version tModLoader version only:
+Enchanted BoomerangEnchanted Boomerang	
+
+    Wooden BoomerangWooden Boomerang
+    Fallen StarFallen Star
+
+Enchanted NightcrawlerEnchanted Nightcrawler	
+
+    WormWorm
+    Fallen StarFallen Star
+
+Enchanted Nightcrawler CageEnchanted Nightcrawler Cage	
+
+    TerrariumTerrarium
+    Enchanted NightcrawlerEnchanted Nightcrawler
+
+Explosive BunnyExplosive Bunny	
+
+    BunnyBunny
+    DynamiteDynamite
+
+ExplosivesExplosives	
+
+    DynamiteDynamite (3)
+    WireWire
+
+Faeling in a BottleFaeling in a Bottle	
+
+    BottleBottle
+    FaelingFaeling
+
+Firefly in a BottleFirefly in a Bottle	
+
+    BottleBottle
+    FireflyFirefly
+
+Fish BowlFish Bowl	
+
+    GoldfishGoldfish
+    Bottled WaterBottled Water
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Flaming ArrowFlaming Arrow (10)	
+
+    Wooden ArrowWooden Arrow (10)
+    TorchTorch
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Flaming ArrowFlaming Arrow (5)	
+
+    Wooden ArrowWooden Arrow (5)
+    TorchTorch
+
+Flaming MaceFlaming Mace	
+
+    MaceMace
+    TorchTorch (99)
+
+Flesh BlockFlesh Block	
+
+    Flesh PlatformFlesh Platform (2)
+
+Flesh PlatformFlesh Platform (2)	
+
+    Flesh BlockFlesh Block
+
+Frog CageFrog Cage	
+
+    TerrariumTerrarium
+    FrogFrog
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Frostburn ArrowFrostburn Arrow (10)	
+
+    Wooden ArrowWooden Arrow (10)
+    Ice TorchIce Torch
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Frostburn ArrowFrostburn Arrow (5)	
+
+    Wooden ArrowWooden Arrow (5)
+    Ice TorchIce Torch
+
+Frozen CampfireFrozen Campfire	
+
+    Any WoodAny Wood (10)
+    Ice TorchIce Torch (5)
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Frozen KeyFrozen Key	
+
+    Temple KeyTemple Key
+    Frozen Key MoldFrozen Key Mold
+    Soul of FrightSoul of Fright (5)
+    Soul of MightSoul of Might (5)
+    Soul of SightSoul of Sight (5)
+
+Frozen PlatformFrozen Platform (2)	
+
+    Ice BlockIce Block
+
+GarlandGarland	
+
+    DaybloomDaybloom
+    MoonglowMoonglow
+    BlinkrootBlinkroot
+    WaterleafWaterleaf
+    DeathweedDeathweed
+    ShiverthornShiverthorn
+    FireblossomFireblossom
+
+Gentleman's BeardGentleman's Beard	
+
+    Gentleman's Long BeardGentleman's Long Beard
+
+    Gentleman's Magnificent BeardGentleman's Magnificent Beard
+
+Gentleman's Long BeardGentleman's Long Beard	
+
+    Gentleman's Magnificent BeardGentleman's Magnificent Beard
+
+GlassGlass	
+
+    Glass PlatformGlass Platform (2)
+
+Console version Mobile version tModLoader version only:
+Glass PlatformGlass Platform (2)	
+
+    GlassGlass
+
+Glowing MushroomGlowing Mushroom	
+
+    Mushroom PlatformMushroom Platform (2)
+
+Glowing Snail CageGlowing Snail Cage	
+
+    TerrariumTerrarium
+    Glowing SnailGlowing Snail
+
+Gold Bird CageGold Bird Cage	
+
+    TerrariumTerrarium
+    Gold BirdGold Bird
+
+Gold Bunny CageGold Bunny Cage	
+
+    TerrariumTerrarium
+    Gold BunnyGold Bunny
+
+Gold Butterfly JarGold Butterfly Jar	
+
+    Gold ButterflyGold Butterfly
+    BottleBottle
+
+Gold CoinGold Coin (100)	
+
+    Platinum CoinPlatinum Coin
+
+Gold CoinGold Coin	
+
+    Silver CoinSilver Coin (100)
+
+Gold Dragonfly JarGold Dragonfly Jar	
+
+    Gold DragonflyGold Dragonfly
+    BottleBottle
+
+Gold Fish BowlGold Fish Bowl	
+
+    Gold GoldfishGold Goldfish
+    Bottled WaterBottled Water
+
+Gold Frog CageGold Frog Cage	
+
+    TerrariumTerrarium
+    Gold FrogGold Frog
+
+Gold Grasshopper CageGold Grasshopper Cage	
+
+    TerrariumTerrarium
+    Gold GrasshopperGold Grasshopper
+
+Gold Ladybug CageGold Ladybug Cage	
+
+    TerrariumTerrarium
+    Gold LadybugGold Ladybug
+
+Gold Mouse CageGold Mouse Cage	
+
+    TerrariumTerrarium
+    Gold MouseGold Mouse
+
+Gold Seahorse CageGold Seahorse Cage	
+
+    TerrariumTerrarium
+    Gold SeahorseGold Seahorse
+
+Gold Squirrel CageGold Squirrel Cage	
+
+    TerrariumTerrarium
+    Gold SquirrelGold Squirrel
+
+Gold Water Strider CageGold Water Strider Cage	
+
+    TerrariumTerrarium
+    Gold Water StriderGold Water Strider
+
+Gold Worm CageGold Worm Cage	
+
+    TerrariumTerrarium
+    Gold WormGold Worm
+
+Granite PlatformGranite Platform (2)	
+
+    Smooth Granite BlockSmooth Granite Block
+
+Granite Work BenchGranite Work Bench	
+
+    Smooth Granite BlockSmooth Granite Block (10)
+
+Grasshopper CageGrasshopper Cage	
+
+    TerrariumTerrarium
+    GrasshopperGrasshopper
+
+Gray BrickGray Brick	
+
+    Stone PlatformStone Platform (2)
+
+Gray Cockatiel CageGray Cockatiel Cage	
+
+    TerrariumTerrarium
+    Gray CockatielGray Cockatiel
+
+Grebe CageGrebe Cage	
+
+    TerrariumTerrarium
+    GrebeGrebe
+
+Console version Mobile version only:
+Green BrickGreen Brick	
+
+    Green Brick PlatformGreen Brick Platform (2)
+
+Console version Mobile version only:
+Green Brick PlatformGreen Brick Platform (2)	
+
+    Green BrickGreen Brick
+
+Green Dragonfly JarGreen Dragonfly Jar	
+
+    Green DragonflyGreen Dragonfly
+    BottleBottle
+
+Green Fairy JarGreen Fairy Jar	
+
+    BottleBottle
+    Green FairyGreen Fairy
+
+Green Jellyfish JarGreen Jellyfish Jar	
+
+    Green Jellyfish (bait)Green Jellyfish (bait)
+    Bottled WaterBottled Water
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Green StringGreen String	
+
+    White StringWhite String
+    Green DyeGreen Dye
+
+Console version Mobile version tModLoader version only:
+Green TorchGreen Torch (10)	
+
+    TorchTorch (10)
+    EmeraldEmerald
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Green TorchGreen Torch (3)	
+
+    TorchTorch (3)
+    EmeraldEmerald
+
+Grubby CageGrubby Cage	
+
+    TerrariumTerrarium
+    GrubbyGrubby
+
+Hallowed CampfireHallowed Campfire	
+
+    Any WoodAny Wood (10)
+    Hallowed TorchHallowed Torch (5)
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Hallowed KeyHallowed Key	
+
+    Temple KeyTemple Key
+    Hallowed Key MoldHallowed Key Mold
+    Soul of FrightSoul of Fright (5)
+    Soul of MightSoul of Might (5)
+    Soul of SightSoul of Sight (5)
+
+Hallowed TorchHallowed Torch (3)	
+
+    TorchTorch (3)
+    Pearlstone BlockPearlstone Block
+
+    TorchTorch (3)
+    Pink Ice BlockPink Ice Block
+
+    TorchTorch (3)
+    Hardened Pearlsand BlockHardened Pearlsand Block
+
+Hanging BlinkrootHanging Blinkroot	
+
+    Hanging PotHanging Pot
+    BlinkrootBlinkroot
+
+Hanging BrazierHanging Brazier	
+
+    Hanging PotHanging Pot
+    TorchTorch (3)
+
+Hanging Corrupt DeathweedHanging Corrupt Deathweed	
+
+    Hanging PotHanging Pot
+    DeathweedDeathweed
+
+Hanging Crimson DeathweedHanging Crimson Deathweed	
+
+    Hanging PotHanging Pot
+    DeathweedDeathweed
+
+Hanging DaybloomHanging Daybloom	
+
+    Hanging PotHanging Pot
+    DaybloomDaybloom
+
+Hanging FireblossomHanging Fireblossom	
+
+    Hanging PotHanging Pot
+    FireblossomFireblossom
+
+Hanging MoonglowHanging Moonglow	
+
+    Hanging PotHanging Pot
+    MoonglowMoonglow
+
+Hanging ShiverthornHanging Shiverthorn	
+
+    Hanging PotHanging Pot
+    ShiverthornShiverthorn
+
+Hanging WaterleafHanging Waterleaf	
+
+    Hanging PotHanging Pot
+    WaterleafWaterleaf
+
+Heart LanternHeart Lantern	
+
+    Life CrystalLife Crystal
+    ChainChain (4)
+
+Hell Butterfly JarHell Butterfly Jar	
+
+    BottleBottle
+    Hell ButterflyHell Butterfly
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Holy WaterHoly Water (10)	
+
+    Bottled WaterBottled Water (10)
+    Pixie DustPixie Dust (2)
+    Hallowed SeedsHallowed Seeds
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Holy WaterHoly Water (5)	
+
+    Bottled WaterBottled Water
+    Pixie DustPixie Dust (5)
+    Hallowed SeedsHallowed Seeds
+
+Honey BlockHoney Block	
+
+    Honey PlatformHoney Platform (2)
+
+Console version Mobile version tModLoader version only:
+Honey PlatformHoney Platform (2)	
+
+    Honey BlockHoney Block
+
+Ice BlockIce Block	
+
+    Frozen PlatformFrozen Platform (2)
+
+Ice TorchIce Torch (3)	
+
+    TorchTorch (3)
+    Ice BlockIce Block
+
+Console version Mobile version tModLoader version only:
+Ice TorchIce Torch (3)	
+
+    TorchTorch (3)
+    Purple Ice BlockPurple Ice Block
+
+    TorchTorch (3)
+    Pink Ice BlockPink Ice Block
+
+    TorchTorch (3)
+    Red Ice BlockRed Ice Block
+
+Ichor CampfireIchor Campfire	
+
+    Any WoodAny Wood (10)
+    Ichor TorchIchor Torch (5)
+
+Ichor DartIchor Dart (100)	
+
+    IchorIchor
+
+Ichor TorchIchor Torch (33)	
+
+    TorchTorch (33)
+    IchorIchor
+
+Inactive Stone BlockInactive Stone Block	
+
+    Stone WallStone Wall (4)
+    WireWire
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Jester's ArrowJester's Arrow (20)	
+
+    Wooden ArrowWooden Arrow (20)
+    Fallen StarFallen Star
+
+Console version Old-gen console version Mobile version Windows Phone version Nintendo 3DS version tModLoader version only:
+Jester's ArrowJester's Arrow (10)	
+
+    Wooden ArrowWooden Arrow (10)
+    Fallen StarFallen Star
+
+Julia Butterfly JarJulia Butterfly Jar	
+
+    Julia ButterflyJulia Butterfly
+    BottleBottle
+
+Jungle CampfireJungle Campfire	
+
+    Any WoodAny Wood (10)
+    Jungle TorchJungle Torch (5)
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Jungle KeyJungle Key	
+
+    Temple KeyTemple Key
+    Jungle Key MoldJungle Key Mold
+    Soul of FrightSoul of Fright (5)
+    Soul of MightSoul of Might (5)
+    Soul of SightSoul of Sight (5)
+
+Jungle TorchJungle Torch (25)	
+
+    TorchTorch (25)
+    Jungle SporesJungle Spores
+
+Jungle Turtle CageJungle Turtle Cage	
+
+    TerrariumTerrarium
+    Jungle TurtleJungle Turtle
+
+Ladybug CageLadybug Cage	
+
+    TerrariumTerrarium
+    LadybugLadybug
+
+Large VolcanoLarge Volcano	
+
+    Mini VolcanoMini Volcano (3)
+
+Lavafly in a BottleLavafly in a Bottle	
+
+    BottleBottle
+    LavaflyLavafly
+
+Lesion BlockLesion Block	
+
+    Lesion PlatformLesion Platform (2)
+
+Lesion PlatformLesion Platform (2)	
+
+    Lesion BlockLesion Block
+
+Lightning Bug in a BottleLightning Bug in a Bottle	
+
+    BottleBottle
+    Lightning BugLightning Bug
+
+Lihzahrd BrickLihzahrd Brick	
+
+    Lihzahrd PlatformLihzahrd Platform (2)
+
+Lihzahrd PlatformLihzahrd Platform (2)	
+
+    Lihzahrd BrickLihzahrd Brick
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Lime StringLime String	
+
+    White StringWhite String
+    Lime DyeLime Dye
+
+Maggot CageMaggot Cage	
+
+    TerrariumTerrarium
+    MaggotMaggot
+
+Magma Snail CageMagma Snail Cage	
+
+    TerrariumTerrarium
+    Magma SnailMagma Snail
+
+Mallard Duck CageMallard Duck Cage	
+
+    TerrariumTerrarium
+    Mallard DuckMallard Duck
+
+Console version Old-gen console version Mobile version Windows Phone version tModLoader version only:
+Mana CrystalMana Crystal	
+
+    Fallen StarFallen Star (5)
+
+Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Mana CrystalMana Crystal	
+
+    Fallen StarFallen Star (3)
+
+Marble PlatformMarble Platform (2)	
+
+    Smooth Marble BlockSmooth Marble Block
+
+Marble Work BenchMarble Work Bench	
+
+    Smooth Marble BlockSmooth Marble Block (10)
+
+Marshmallow on a StickMarshmallow on a Stick	
+
+    MarshmallowMarshmallow
+    Any WoodAny Wood
+
+Martian Conduit PlatingMartian Conduit Plating	
+
+    Martian PlatformMartian Platform (2)
+
+Martian PlatformMartian Platform (2)	
+
+    Martian Conduit PlatingMartian Conduit Plating
+
+Martian Work BenchMartian Work Bench	
+
+    Martian Conduit PlatingMartian Conduit Plating (10)
+
+Meteorite BrickMeteorite Brick	
+
+    Meteorite PlatformMeteorite Platform (2)
+
+Meteorite PlatformMeteorite Platform (2)	
+
+    Meteorite BrickMeteorite Brick
+
+Meteorite Work BenchMeteorite Work Bench	
+
+    Meteorite BrickMeteorite Brick (10)
+
+Old-gen console version Windows Phone version only:
+Molotov CocktailMolotov Cocktail (10)	
+
+    AleAle (10)
+    SilkSilk
+    TorchTorch
+
+Console version Mobile version only:
+Molotov CocktailMolotov Cocktail (5)	
+
+    AleAle (5)
+    GelGel
+    SilkSilk
+    TorchTorch
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Molotov CocktailMolotov Cocktail (5)	
+
+    AleAle (5)
+    Pink GelPink Gel
+    SilkSilk
+    TorchTorch
+
+Monarch Butterfly JarMonarch Butterfly Jar	
+
+    Monarch ButterflyMonarch Butterfly
+    BottleBottle
+
+Mouse CageMouse Cage	
+
+    TerrariumTerrarium
+    MouseMouse
+
+Mushroom CampfireMushroom Campfire	
+
+    Glowing MushroomGlowing Mushroom (10)
+    Mushroom TorchMushroom Torch (5)
+
+Console version Mobile version tModLoader version only:
+Mushroom PlatformMushroom Platform (2)	
+
+    Glowing MushroomGlowing Mushroom
+
+Mushroom TorchMushroom Torch (3)	
+
+    TorchTorch (3)
+    Glowing MushroomGlowing Mushroom
+
+Mushroom Work BenchMushroom Work Bench	
+
+    Glowing MushroomGlowing Mushroom (10)
+
+Nebula BrickNebula Brick	
+
+    Nebula PlatformNebula Platform (2)
+
+Nebula PlatformNebula Platform (2)	
+
+    Nebula BrickNebula Brick
+
+Obsidian BrickObsidian Brick	
+
+    Obsidian PlatformObsidian Platform (2)
+
+Obsidian PlatformObsidian Platform (2)	
+
+    Obsidian BrickObsidian Brick
+
+Orange Dragonfly JarOrange Dragonfly Jar	
+
+    Orange DragonflyOrange Dragonfly
+    BottleBottle
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Orange StringOrange String	
+
+    White StringWhite String
+    Orange DyeOrange Dye
+
+Console version Mobile version tModLoader version only:
+Orange TorchOrange Torch (20)	
+
+    TorchTorch (20)
+    AmberAmber
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Orange TorchOrange Torch (3)	
+
+    TorchTorch (3)
+    AmberAmber
+
+Owl CageOwl Cage	
+
+    TerrariumTerrarium
+    OwlOwl
+
+Palm WoodPalm Wood	
+
+    Palm Wood PlatformPalm Wood Platform (2)
+
+Palm Wood PlatformPalm Wood Platform (2)	
+
+    Palm WoodPalm Wood
+
+Palm Wood Work BenchPalm Wood Work Bench	
+
+    Palm WoodPalm Wood (10)
+
+PearlwoodPearlwood	
+
+    Pearlwood PlatformPearlwood Platform (2)
+
+Pearlwood PlatformPearlwood Platform (2)	
+
+    PearlwoodPearlwood
+
+Pearlwood Work BenchPearlwood Work Bench	
+
+    PearlwoodPearlwood (10)
+
+Penguin CagePenguin Cage	
+
+    TerrariumTerrarium
+    PenguinPenguin
+
+Console version Mobile version only:
+Pink BrickPink Brick	
+
+    Pink Brick PlatformPink Brick Platform (2)
+
+Console version Mobile version only:
+Pink Brick PlatformPink Brick Platform (2)	
+
+    Pink BrickPink Brick
+
+Pink Fairy JarPink Fairy Jar	
+
+    BottleBottle
+    Pink FairyPink Fairy
+
+Pink Jellyfish JarPink Jellyfish Jar	
+
+    Pink Jellyfish (bait)Pink Jellyfish (bait)
+    Bottled WaterBottled Water
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Pink StringPink String	
+
+    White StringWhite String
+    Pink DyePink Dye
+
+Pink TorchPink Torch (3)	
+
+    Pink GelPink Gel
+    Any WoodAny Wood
+
+Platinum CoinPlatinum Coin	
+
+    Gold CoinGold Coin (100)
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Poison DartPoison Dart (100)	
+
+    StingerStinger
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Poison DartPoison Dart (50)	
+
+    StingerStinger
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Poisoned KnifePoisoned Knife (50)	
+
+    Throwing KnifeThrowing Knife (50)
+    Vile PowderVile Powder
+
+    Throwing KnifeThrowing Knife (50)
+    Vicious PowderVicious Powder
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Poisoned KnifePoisoned Knife (20)	
+
+    Throwing KnifeThrowing Knife (20)
+    Vile PowderVile Powder
+
+Pot o' GoldPot o' Gold	
+
+    Rainbow PieceRainbow Piece (5)
+
+Prismatic Lacewing JarPrismatic Lacewing Jar	
+
+    BottleBottle
+    Prismatic LacewingPrismatic Lacewing
+
+PumpkinPumpkin	
+
+    Pumpkin PlatformPumpkin Platform (2)
+
+Console version Mobile version tModLoader version only:
+Pumpkin PlatformPumpkin Platform (2)	
+
+    PumpkinPumpkin
+
+Pumpkin Work BenchPumpkin Work Bench	
+
+    PumpkinPumpkin (10)
+
+Pupfish BowlPupfish Bowl	
+
+    PupfishPupfish
+    Bottled WaterBottled Water
+
+Purple Emperor Butterfly JarPurple Emperor Butterfly Jar	
+
+    Purple Emperor ButterflyPurple Emperor Butterfly
+    BottleBottle
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Purple StringPurple String	
+
+    White StringWhite String
+    Purple DyePurple Dye
+
+Console version Mobile version tModLoader version only:
+Purple TorchPurple Torch (10)	
+
+    TorchTorch (10)
+    AmethystAmethyst
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Purple TorchPurple Torch (3)	
+
+    TorchTorch (3)
+    AmethystAmethyst
+
+Rainbow CampfireRainbow Campfire	
+
+    Any WoodAny Wood (10)
+    Rainbow TorchRainbow Torch (5)
+
+Rainbow FlareRainbow Flare (10)	
+
+    FlareFlare (10)
+    Rainbow BrickRainbow Brick
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Rainbow StringRainbow String	
+
+    White StringWhite String
+    Rainbow DyeRainbow Dye
+
+Console version Mobile version tModLoader version only:
+Rainbow TorchRainbow Torch (10)	
+
+    TorchTorch (10)
+    Rainbow BrickRainbow Brick
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Rainbow TorchRainbow Torch (3)	
+
+    TorchTorch (3)
+    Rainbow BrickRainbow Brick
+
+Rat CageRat Cage	
+
+    TerrariumTerrarium
+    RatRat
+
+Red Admiral Butterfly JarRed Admiral Butterfly Jar	
+
+    Red Admiral ButterflyRed Admiral Butterfly
+    BottleBottle
+
+Red Dragonfly JarRed Dragonfly Jar	
+
+    Red DragonflyRed Dragonfly
+    BottleBottle
+
+Red Squirrel CageRed Squirrel Cage	
+
+    TerrariumTerrarium
+    Red SquirrelRed Squirrel
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Red StringRed String	
+
+    White StringWhite String
+    Red DyeRed Dye
+
+Console version Mobile version tModLoader version only:
+Red TorchRed Torch (10)	
+
+    TorchTorch (10)
+    RubyRuby
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Red TorchRed Torch (3)	
+
+    TorchTorch (3)
+    RubyRuby
+
+Reef BlockReef Block	
+
+    Reef PlatformReef Platform (2)
+
+Reef PlatformReef Platform (2)	
+
+    Reef BlockReef Block
+
+Reef Work BenchReef Work Bench	
+
+    Reef BlockReef Block (10)
+
+Resplendent DessertResplendent Dessert	
+
+    Royal DelightRoyal Delight
+    Regal DelicacyRegal Delicacy
+
+Rich MahoganyRich Mahogany	
+
+    Rich Mahogany PlatformRich Mahogany Platform (2)
+
+Rich Mahogany PlatformRich Mahogany Platform (2)	
+
+    Rich MahoganyRich Mahogany
+
+Rich Mahogany Work BenchRich Mahogany Work Bench	
+
+    Rich MahoganyRich Mahogany (10)
+
+Rope CoilRope Coil	
+
+    RopeRope (10)
+
+Ruby Bunny CageRuby Bunny Cage	
+
+    TerrariumTerrarium
+    Ruby BunnyRuby Bunny
+
+Ruby GemcornRuby Gemcorn	
+
+    AcornAcorn
+    RubyRuby
+
+Ruby Squirrel CageRuby Squirrel Cage	
+
+    TerrariumTerrarium
+    Ruby SquirrelRuby Squirrel
+
+Sandstone PlatformSandstone Platform (2)	
+
+    Smooth SandstoneSmooth Sandstone
+
+Sandstone Work BenchSandstone Work Bench	
+
+    Smooth SandstoneSmooth Sandstone (10)
+
+Sapphire Bunny CageSapphire Bunny Cage	
+
+    TerrariumTerrarium
+    Sapphire BunnySapphire Bunny
+
+Sapphire GemcornSapphire Gemcorn	
+
+    AcornAcorn
+    SapphireSapphire
+
+Sapphire Squirrel CageSapphire Squirrel Cage	
+
+    TerrariumTerrarium
+    Sapphire SquirrelSapphire Squirrel
+
+Scarab BombScarab Bomb	
+
+    BombBomb
+    Sturdy FossilSturdy Fossil
+
+Scarlet Macaw CageScarlet Macaw Cage	
+
+    TerrariumTerrarium
+    Scarlet MacawScarlet Macaw
+
+Scorpion CageScorpion Cage	
+
+    TerrariumTerrarium
+    ScorpionScorpion
+
+Seagull CageSeagull Cage	
+
+    TerrariumTerrarium
+    SeagullSeagull
+
+Seahorse CageSeahorse Cage	
+
+    TerrariumTerrarium
+    SeahorseSeahorse
+
+ShadewoodShadewood	
+
+    Shadewood PlatformShadewood Platform (2)
+
+Shadewood PlatformShadewood Platform (2)	
+
+    ShadewoodShadewood
+
+Shadewood Work BenchShadewood Work Bench	
+
+    ShadewoodShadewood (10)
+
+Silk Rope CoilSilk Rope Coil	
+
+    Silk RopeSilk Rope (10)
+
+Silly Green BalloonSilly Green Balloon	
+
+    Balloon PlatformBalloon Platform (2)
+
+Silly Tied Bundle of BalloonsSilly Tied Bundle of Balloons	
+
+    Silly Tied Balloon (Pink)Silly Tied Balloon (Pink)
+    Silly Tied Balloon (Purple)Silly Tied Balloon (Purple)
+    Silly Tied Balloon (Green)Silly Tied Balloon (Green)
+
+Silver CoinSilver Coin (100)	
+
+    Gold CoinGold Coin
+
+Silver CoinSilver Coin	
+
+    Copper CoinCopper Coin (100)
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Sky Blue StringSky Blue String	
+
+    White StringWhite String
+    Sky Blue DyeSky Blue Dye
+
+Console version Mobile version tModLoader version only:
+Skyware PlatformSkyware Platform (2)	
+
+    Sunplate BlockSunplate Block
+
+Slime BlockSlime Block	
+
+    Slime PlatformSlime Platform (2)
+
+Slime PlatformSlime Platform (2)	
+
+    Slime BlockSlime Block
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Slime Work BenchSlime Work Bench	
+
+    Slime BlockSlime Block (10)
+
+Sluggy CageSluggy Cage	
+
+    TerrariumTerrarium
+    SluggySluggy
+
+Smooth Granite BlockSmooth Granite Block	
+
+    Granite PlatformGranite Platform (2)
+
+Smooth Marble BlockSmooth Marble Block	
+
+    Marble PlatformMarble Platform (2)
+
+Smooth SandstoneSmooth Sandstone	
+
+    Sandstone PlatformSandstone Platform (2)
+
+Snail CageSnail Cage	
+
+    TerrariumTerrarium
+    SnailSnail
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+SnowballSnowball (15)	
+
+    Snow BlockSnow Block
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+SnowballSnowball (10)	
+
+    Snow BlockSnow Block
+
+Solar BrickSolar Brick	
+
+    Solar PlatformSolar Platform (2)
+
+Solar PlatformSolar Platform (2)	
+
+    Solar BrickSolar Brick
+
+Soul of Flight in a BottleSoul of Flight in a Bottle	
+
+    BottleBottle
+    Soul of FlightSoul of Flight
+
+Soul of Fright in a BottleSoul of Fright in a Bottle	
+
+    BottleBottle
+    Soul of FrightSoul of Fright
+
+Soul of Light in a BottleSoul of Light in a Bottle	
+
+    BottleBottle
+    Soul of LightSoul of Light
+
+Soul of Might in a BottleSoul of Might in a Bottle	
+
+    BottleBottle
+    Soul of MightSoul of Might
+
+Soul of Night in a BottleSoul of Night in a Bottle	
+
+    BottleBottle
+    Soul of NightSoul of Night
+
+Soul of Sight in a BottleSoul of Sight in a Bottle	
+
+    BottleBottle
+    Soul of SightSoul of Sight
+
+Spelunker FlareSpelunker Flare	
+
+    FlareFlare
+    Spelunker GlowstickSpelunker Glowstick
+
+Spider Nest BlockSpider Nest Block	
+
+    Spider PlatformSpider Platform (2)
+
+Spider PlatformSpider Platform (2)	
+
+    Spider Nest BlockSpider Nest Block
+
+Spider Work BenchSpider Work Bench	
+
+    Spider Nest BlockSpider Nest Block (10)
+
+Spooky WoodSpooky Wood	
+
+    Spooky Wood PlatformSpooky Wood Platform (2)
+
+Spooky Wood PlatformSpooky Wood Platform (2)	
+
+    Spooky WoodSpooky Wood
+
+Spooky Work BenchSpooky Work Bench	
+
+    Spooky WoodSpooky Wood (10)
+
+Squirrel CageSquirrel Cage	
+
+    TerrariumTerrarium
+    SquirrelSquirrel
+
+Star in a BottleStar in a Bottle	
+
+    BottleBottle
+    Fallen StarFallen Star
+
+Stardust BrickStardust Brick	
+
+    Stardust PlatformStardust Platform (2)
+
+Stardust PlatformStardust Platform (2)	
+
+    Stardust BrickStardust Brick
+
+Console version Mobile version tModLoader version only:
+Steampunk PlatformSteampunk Platform (2)	
+
+    CogCog
+
+Sticky BombSticky Bomb	
+
+    BombBomb
+    GelGel
+
+Sticky Dirt BombSticky Dirt Bomb	
+
+    Dirt BombDirt Bomb
+    GelGel
+
+    Sticky BombSticky Bomb
+    Dirt BlockDirt Block (25)
+
+Sticky DynamiteSticky Dynamite	
+
+    DynamiteDynamite
+    GelGel
+
+Sticky GlowstickSticky Glowstick (5)	
+
+    GlowstickGlowstick (5)
+    GelGel
+
+Sticky GrenadeSticky Grenade (5)	
+
+    GrenadeGrenade (5)
+    GelGel
+
+Stinkbug CageStinkbug Cage	
+
+    TerrariumTerrarium
+    StinkbugStinkbug
+
+Stone PlatformStone Platform (2)	
+
+    Gray BrickGray Brick
+
+Sulphur Butterfly JarSulphur Butterfly Jar	
+
+    Sulphur ButterflySulphur Butterfly
+    BottleBottle
+
+Sunplate BlockSunplate Block	
+
+    Skyware PlatformSkyware Platform (2)
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Teal StringTeal String	
+
+    White StringWhite String
+    Teal DyeTeal Dye
+
+TNT BarrelTNT Barrel	
+
+    DynamiteDynamite (3)
+    BarrelBarrel
+
+Topaz Bunny CageTopaz Bunny Cage	
+
+    TerrariumTerrarium
+    Topaz BunnyTopaz Bunny
+
+Topaz GemcornTopaz Gemcorn	
+
+    AcornAcorn
+    TopazTopaz
+
+Topaz Squirrel CageTopaz Squirrel Cage	
+
+    TerrariumTerrarium
+    Topaz SquirrelTopaz Squirrel
+
+TorchTorch (3)	
+
+    GelGel
+    Any WoodAny Wood
+
+Toucan CageToucan Cage	
+
+    TerrariumTerrarium
+    ToucanToucan
+
+Tree Nymph Butterfly JarTree Nymph Butterfly Jar	
+
+    Tree Nymph ButterflyTree Nymph Butterfly
+    BottleBottle
+
+Truffle Worm CageTruffle Worm Cage	
+
+    TerrariumTerrarium
+    Truffle WormTruffle Worm
+
+Turtle CageTurtle Cage	
+
+    TerrariumTerrarium
+    TurtleTurtle
+
+Ultrabright CampfireUltrabright Campfire	
+
+    Any WoodAny Wood (10)
+    Ultrabright TorchUltrabright Torch (5)
+
+Ulysses Butterfly JarUlysses Butterfly Jar	
+
+    Ulysses ButterflyUlysses Butterfly
+    BottleBottle
+
+Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Unholy WaterUnholy Water (10)	
+
+    Bottled WaterBottled Water (10)
+    Ebonsand BlockEbonsand Block
+    Corrupt SeedsCorrupt Seeds
+
+Old-gen console version Windows Phone version Nintendo 3DS version only:
+Unholy WaterUnholy Water (5)	
+
+    Bottled WaterBottled Water
+    Ebonsand BlockEbonsand Block
+    Corrupt SeedsCorrupt Seeds
+
+Vine Rope CoilVine Rope Coil	
+
+    Vine RopeVine Rope (10)
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Violet StringViolet String	
+
+    White StringWhite String
+    Violet DyeViolet Dye
+
+Vortex BrickVortex Brick	
+
+    Vortex PlatformVortex Platform (2)
+
+Vortex PlatformVortex Platform (2)	
+
+    Vortex BrickVortex Brick
+
+Wand of FrostingWand of Frosting	
+
+    Wand of SparkingWand of Sparking
+    Ice TorchIce Torch (99)
+
+Water Strider CageWater Strider Cage	
+
+    TerrariumTerrarium
+    Water StriderWater Strider
+
+Web RopeWeb Rope (3)	
+
+    CobwebCobweb
+
+Web Rope CoilWeb Rope Coil	
+
+    Web RopeWeb Rope (10)
+
+Console version Mobile version tModLoader version only:
+White TorchWhite Torch (10)	
+
+    TorchTorch (10)
+    DiamondDiamond
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+White TorchWhite Torch (3)	
+
+    TorchTorch (3)
+    DiamondDiamond
+
+WoodWood	
+
+    Wood PlatformWood Platform (2)
+
+Wood PlatformWood Platform (2)	
+
+    WoodWood
+
+Work BenchWork Bench	
+
+    WoodWood (10)
+
+Worm CageWorm Cage	
+
+    TerrariumTerrarium
+    WormWorm
+
+Yellow Cockatiel CageYellow Cockatiel Cage	
+
+    TerrariumTerrarium
+    Yellow CockatielYellow Cockatiel
+
+Yellow Dragonfly JarYellow Dragonfly Jar	
+
+    Yellow DragonflyYellow Dragonfly
+    BottleBottle
+
+Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
+Yellow StringYellow String	
+
+    White StringWhite String
+    Yellow DyeYellow Dye
+
+Console version Mobile version tModLoader version only:
+Yellow TorchYellow Torch (10)	
+
+    TorchTorch (10)
+    TopazTopaz
+
+Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
+Yellow TorchYellow Torch (3)	
+
+    TorchTorch (3)
+    TopazTopaz
+
+Zebra Swallowtail Butterfly JarZebra Swallowtail Butterfly Jar	
+
+    Zebra Swallowtail ButterflyZebra Swallowtail Butterfly
+    BottleBottle

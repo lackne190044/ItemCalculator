@@ -3,14 +3,14 @@ from model import Item
 
 handler = DB_Handler("sqlite:///items.db")
 
-with open('items.txt', 'r') as f:
-    items = f.readlines()
+with open('Data/items.txt', 'r') as f:
+    data = f.readlines()
 
 
 objects = []
 
 count = 0
-for i in items:
+for i in data:
     count += 1
     name = ' '.join(i.split(' ')[1:-1])
     objects.append(Item(item_name=name))

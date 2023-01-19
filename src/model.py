@@ -26,5 +26,6 @@ class Recipe(Base):
     resource_id = sqlalchemy.Column(sqlalchemy.Integer,
                                 sqlalchemy.ForeignKey("item.item_id"),
                                 nullable=False)
+    resource_amount = sqlalchemy.Column(sqlalchemy.Integer)
     __table_args__ = (sqlalchemy.PrimaryKeyConstraint('item_id', 'resource_id', name='PartofItem'), )
 

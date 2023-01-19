@@ -1,7 +1,7 @@
 import sqlalchemy
 import sqlalchemy.orm
 
-from model import Base
+from model import Base, Item
 
 class DB_Handler:
     def __init__(self, database):
@@ -25,6 +25,16 @@ class DB_Handler:
         with self.session_factory() as session:
             session.bulk_save_objects(items)
             session.commit()
+
+    def search_item(self, item):
+        """Search for Player in database."""
+        with self.session_factory() as session:
+            filtered = (
+                session.query(Item)
+                .filter(Item.item_name.is_(item.item_name))
+                .all()[0]
+                )
+            return filtered
 
     def commit_db(self):
         with self.session_factory() as session:
