@@ -41,9 +41,10 @@ class DB_Handler:
         with self.session_factory() as session:
             session.commit()
 
-    # def update_item(self, item):
-    #     with self.session_factory() as session:
-    #         session.
+    def update_item(self, item, new_name):
+        with self.session_factory() as session:
+            updated = session.query(item).update({item.item_name: new_name})
+        return updated
 
     def remove_item(self, item):
         """Remove Item from database."""
