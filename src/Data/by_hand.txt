@@ -92,27 +92,11 @@ Black Scorpion CageBlack Scorpion Cage
     TerrariumTerrarium
     Black ScorpionBlack Scorpion
 
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Black StringBlack String	
-
-    White StringWhite String
-    Black DyeBlack Dye
-
 Blood WaterBlood Water (10)	
 
     Bottled WaterBottled Water (10)
     Crimsand BlockCrimsand Block
     Crimson SeedsCrimson Seeds
-
-Console version Mobile version only:
-Blue BrickBlue Brick	
-
-    Blue Brick PlatformBlue Brick Platform (2)
-
-Console version Mobile version only:
-Blue Brick PlatformBlue Brick Platform (2)	
-
-    Blue BrickBlue Brick
 
 Blue Dragonfly JarBlue Dragonfly Jar	
 
@@ -131,31 +115,13 @@ Blue Jay CageBlue Jay Cage
 
 Blue Jellyfish JarBlue Jellyfish Jar	
 
-    Blue Jellyfish (bait)Blue Jellyfish (bait)
+    Blue JellyfishBlue Jellyfish
     Bottled WaterBottled Water
 
 Blue Macaw CageBlue Macaw Cage	
 
     TerrariumTerrarium
     Blue MacawBlue Macaw
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Blue StringBlue String	
-
-    White StringWhite String
-    Blue DyeBlue Dye
-
-Console version Mobile version tModLoader version only:
-Blue TorchBlue Torch (10)	
-
-    TorchTorch (10)
-    SapphireSapphire
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Blue TorchBlue Torch (3)	
-
-    TorchTorch (3)
-    SapphireSapphire
 
 BoneBone	
 
@@ -165,16 +131,6 @@ Bone CampfireBone Campfire
 
     Any WoodAny Wood (10)
     Bone TorchBone Torch (5)
-
-Console version Mobile version tModLoader version only:
-Bone PlatformBone Platform (2)	
-
-    BoneBone
-
-Nintendo 3DS version only:
-Bone Work BenchBone Work Bench	
-
-    BoneBone (10)
 
 Boreal WoodBoreal Wood	
 
@@ -208,12 +164,6 @@ Bouncy GrenadeBouncy Grenade (2)
     GrenadeGrenade (2)
     Pink GelPink Gel
 
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Brown StringBrown String	
-
-    White StringWhite String
-    Brown DyeBrown Dye
-
 Buggy CageBuggy Cage	
 
     TerrariumTerrarium
@@ -228,26 +178,9 @@ CactusCactus
 
     Cactus PlatformCactus Platform (2)
 
-Console version Mobile version tModLoader version only:
-Cactus PlatformCactus Platform (2)	
-
-    CactusCactus
-
 Cactus Work BenchCactus Work Bench	
 
     CactusCactus (10)
-
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-CampfireCampfire	
-
-    Any WoodAny Wood (10)
-    TorchTorch (5)
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-CampfireCampfire	
-
-    Any WoodAny Wood (20)
-    TorchTorch (5)
 
 Cardinal CageCardinal Cage	
 
@@ -288,28 +221,10 @@ Corrupt TorchCorrupt Torch (3)
     TorchTorch (3)
     Hardened Ebonsand BlockHardened Ebonsand Block
 
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Corruption KeyCorruption Key	
-
-    Temple KeyTemple Key
-    Corruption Key MoldCorruption Key Mold
-    Soul of FrightSoul of Fright (5)
-    Soul of MightSoul of Might (5)
-    Soul of SightSoul of Sight (5)
-
 Crimson CampfireCrimson Campfire	
 
     Any WoodAny Wood (10)
     Crimson TorchCrimson Torch (5)
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Crimson KeyCrimson Key	
-
-    Temple KeyTemple Key
-    Crimson Key MoldCrimson Key Mold
-    Soul of FrightSoul of Fright (5)
-    Soul of MightSoul of Might (5)
-    Soul of SightSoul of Sight (5)
 
 Crimson TorchCrimson Torch (3)	
 
@@ -357,22 +272,10 @@ Cursed TorchCursed Torch (33)
     TorchTorch (33)
     Cursed FlameCursed Flame
 
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Cyan StringCyan String	
-
-    White StringWhite String
-    Cyan DyeCyan Dye
-
 Demon CampfireDemon Campfire	
 
     Any WoodAny Wood (10)
     Demon TorchDemon Torch (5)
-
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Demon TorchDemon Torch (3)	
-
-    TorchTorch (3)
-    ObsidianObsidian
 
 Desert CampfireDesert Campfire	
 
@@ -481,12 +384,6 @@ Emerald Squirrel CageEmerald Squirrel Cage
     TerrariumTerrarium
     Emerald SquirrelEmerald Squirrel
 
-Console version Mobile version tModLoader version only:
-Enchanted BoomerangEnchanted Boomerang	
-
-    Wooden BoomerangWooden Boomerang
-    Fallen StarFallen Star
-
 Enchanted NightcrawlerEnchanted Nightcrawler	
 
     WormWorm
@@ -522,18 +419,6 @@ Fish BowlFish Bowl
     GoldfishGoldfish
     Bottled WaterBottled Water
 
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Flaming ArrowFlaming Arrow (10)	
-
-    Wooden ArrowWooden Arrow (10)
-    TorchTorch
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Flaming ArrowFlaming Arrow (5)	
-
-    Wooden ArrowWooden Arrow (5)
-    TorchTorch
-
 Flaming MaceFlaming Mace	
 
     MaceMace
@@ -552,31 +437,10 @@ Frog CageFrog Cage
     TerrariumTerrarium
     FrogFrog
 
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Frostburn ArrowFrostburn Arrow (10)	
-
-    Wooden ArrowWooden Arrow (10)
-    Ice TorchIce Torch
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Frostburn ArrowFrostburn Arrow (5)	
-
-    Wooden ArrowWooden Arrow (5)
-    Ice TorchIce Torch
-
 Frozen CampfireFrozen Campfire	
 
     Any WoodAny Wood (10)
     Ice TorchIce Torch (5)
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Frozen KeyFrozen Key	
-
-    Temple KeyTemple Key
-    Frozen Key MoldFrozen Key Mold
-    Soul of FrightSoul of Fright (5)
-    Soul of MightSoul of Might (5)
-    Soul of SightSoul of Sight (5)
 
 Frozen PlatformFrozen Platform (2)	
 
@@ -605,11 +469,6 @@ Gentleman's Long BeardGentleman's Long Beard
 GlassGlass	
 
     Glass PlatformGlass Platform (2)
-
-Console version Mobile version tModLoader version only:
-Glass PlatformGlass Platform (2)	
-
-    GlassGlass
 
 Glowing MushroomGlowing Mushroom	
 
@@ -720,16 +579,6 @@ Grebe CageGrebe Cage
     TerrariumTerrarium
     GrebeGrebe
 
-Console version Mobile version only:
-Green BrickGreen Brick	
-
-    Green Brick PlatformGreen Brick Platform (2)
-
-Console version Mobile version only:
-Green Brick PlatformGreen Brick Platform (2)	
-
-    Green BrickGreen Brick
-
 Green Dragonfly JarGreen Dragonfly Jar	
 
     Green DragonflyGreen Dragonfly
@@ -742,26 +591,8 @@ Green Fairy JarGreen Fairy Jar
 
 Green Jellyfish JarGreen Jellyfish Jar	
 
-    Green Jellyfish (bait)Green Jellyfish (bait)
+    Green JellyfishGreen Jellyfish
     Bottled WaterBottled Water
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Green StringGreen String	
-
-    White StringWhite String
-    Green DyeGreen Dye
-
-Console version Mobile version tModLoader version only:
-Green TorchGreen Torch (10)	
-
-    TorchTorch (10)
-    EmeraldEmerald
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Green TorchGreen Torch (3)	
-
-    TorchTorch (3)
-    EmeraldEmerald
 
 Grubby CageGrubby Cage	
 
@@ -772,15 +603,6 @@ Hallowed CampfireHallowed Campfire
 
     Any WoodAny Wood (10)
     Hallowed TorchHallowed Torch (5)
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Hallowed KeyHallowed Key	
-
-    Temple KeyTemple Key
-    Hallowed Key MoldHallowed Key Mold
-    Soul of FrightSoul of Fright (5)
-    Soul of MightSoul of Might (5)
-    Soul of SightSoul of Sight (5)
 
 Hallowed TorchHallowed Torch (3)	
 
@@ -848,28 +670,9 @@ Hell Butterfly JarHell Butterfly Jar
     BottleBottle
     Hell ButterflyHell Butterfly
 
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Holy WaterHoly Water (10)	
-
-    Bottled WaterBottled Water (10)
-    Pixie DustPixie Dust (2)
-    Hallowed SeedsHallowed Seeds
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Holy WaterHoly Water (5)	
-
-    Bottled WaterBottled Water
-    Pixie DustPixie Dust (5)
-    Hallowed SeedsHallowed Seeds
-
 Honey BlockHoney Block	
 
     Honey PlatformHoney Platform (2)
-
-Console version Mobile version tModLoader version only:
-Honey PlatformHoney Platform (2)	
-
-    Honey BlockHoney Block
 
 Ice BlockIce Block	
 
@@ -879,18 +682,6 @@ Ice TorchIce Torch (3)
 
     TorchTorch (3)
     Ice BlockIce Block
-
-Console version Mobile version tModLoader version only:
-Ice TorchIce Torch (3)	
-
-    TorchTorch (3)
-    Purple Ice BlockPurple Ice Block
-
-    TorchTorch (3)
-    Pink Ice BlockPink Ice Block
-
-    TorchTorch (3)
-    Red Ice BlockRed Ice Block
 
 Ichor CampfireIchor Campfire	
 
@@ -911,18 +702,6 @@ Inactive Stone BlockInactive Stone Block
     Stone WallStone Wall (4)
     WireWire
 
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Jester's ArrowJester's Arrow (20)	
-
-    Wooden ArrowWooden Arrow (20)
-    Fallen StarFallen Star
-
-Console version Old-gen console version Mobile version Windows Phone version Nintendo 3DS version tModLoader version only:
-Jester's ArrowJester's Arrow (10)	
-
-    Wooden ArrowWooden Arrow (10)
-    Fallen StarFallen Star
-
 Julia Butterfly JarJulia Butterfly Jar	
 
     Julia ButterflyJulia Butterfly
@@ -932,15 +711,6 @@ Jungle CampfireJungle Campfire
 
     Any WoodAny Wood (10)
     Jungle TorchJungle Torch (5)
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Jungle KeyJungle Key	
-
-    Temple KeyTemple Key
-    Jungle Key MoldJungle Key Mold
-    Soul of FrightSoul of Fright (5)
-    Soul of MightSoul of Might (5)
-    Soul of SightSoul of Sight (5)
 
 Jungle TorchJungle Torch (25)	
 
@@ -987,12 +757,6 @@ Lihzahrd PlatformLihzahrd Platform (2)
 
     Lihzahrd BrickLihzahrd Brick
 
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Lime StringLime String	
-
-    White StringWhite String
-    Lime DyeLime Dye
-
 Maggot CageMaggot Cage	
 
     TerrariumTerrarium
@@ -1007,16 +771,6 @@ Mallard Duck CageMallard Duck Cage
 
     TerrariumTerrarium
     Mallard DuckMallard Duck
-
-Console version Old-gen console version Mobile version Windows Phone version tModLoader version only:
-Mana CrystalMana Crystal	
-
-    Fallen StarFallen Star (5)
-
-Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Mana CrystalMana Crystal	
-
-    Fallen StarFallen Star (3)
 
 Marble PlatformMarble Platform (2)	
 
@@ -1055,29 +809,6 @@ Meteorite Work BenchMeteorite Work Bench
 
     Meteorite BrickMeteorite Brick (10)
 
-Old-gen console version Windows Phone version only:
-Molotov CocktailMolotov Cocktail (10)	
-
-    AleAle (10)
-    SilkSilk
-    TorchTorch
-
-Console version Mobile version only:
-Molotov CocktailMolotov Cocktail (5)	
-
-    AleAle (5)
-    GelGel
-    SilkSilk
-    TorchTorch
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Molotov CocktailMolotov Cocktail (5)	
-
-    AleAle (5)
-    Pink GelPink Gel
-    SilkSilk
-    TorchTorch
-
 Monarch Butterfly JarMonarch Butterfly Jar	
 
     Monarch ButterflyMonarch Butterfly
@@ -1092,11 +823,6 @@ Mushroom CampfireMushroom Campfire
 
     Glowing MushroomGlowing Mushroom (10)
     Mushroom TorchMushroom Torch (5)
-
-Console version Mobile version tModLoader version only:
-Mushroom PlatformMushroom Platform (2)	
-
-    Glowing MushroomGlowing Mushroom
 
 Mushroom TorchMushroom Torch (3)	
 
@@ -1127,24 +853,6 @@ Orange Dragonfly JarOrange Dragonfly Jar
 
     Orange DragonflyOrange Dragonfly
     BottleBottle
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Orange StringOrange String	
-
-    White StringWhite String
-    Orange DyeOrange Dye
-
-Console version Mobile version tModLoader version only:
-Orange TorchOrange Torch (20)	
-
-    TorchTorch (20)
-    AmberAmber
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Orange TorchOrange Torch (3)	
-
-    TorchTorch (3)
-    AmberAmber
 
 Owl CageOwl Cage	
 
@@ -1180,16 +888,6 @@ Penguin CagePenguin Cage
     TerrariumTerrarium
     PenguinPenguin
 
-Console version Mobile version only:
-Pink BrickPink Brick	
-
-    Pink Brick PlatformPink Brick Platform (2)
-
-Console version Mobile version only:
-Pink Brick PlatformPink Brick Platform (2)	
-
-    Pink BrickPink Brick
-
 Pink Fairy JarPink Fairy Jar	
 
     BottleBottle
@@ -1197,14 +895,8 @@ Pink Fairy JarPink Fairy Jar
 
 Pink Jellyfish JarPink Jellyfish Jar	
 
-    Pink Jellyfish (bait)Pink Jellyfish (bait)
+    Pink JellyfishPink Jellyfish
     Bottled WaterBottled Water
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Pink StringPink String	
-
-    White StringWhite String
-    Pink DyePink Dye
 
 Pink TorchPink Torch (3)	
 
@@ -1215,35 +907,6 @@ Platinum CoinPlatinum Coin
 
     Gold CoinGold Coin (100)
 
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Poison DartPoison Dart (100)	
-
-    StingerStinger
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Poison DartPoison Dart (50)	
-
-    StingerStinger
-
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Poisoned KnifePoisoned Knife (50)	
-
-    Throwing KnifeThrowing Knife (50)
-    Vile PowderVile Powder
-
-    Throwing KnifeThrowing Knife (50)
-    Vicious PowderVicious Powder
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Poisoned KnifePoisoned Knife (20)	
-
-    Throwing KnifeThrowing Knife (20)
-    Vile PowderVile Powder
-
-Pot o' GoldPot o' Gold	
-
-    Rainbow PieceRainbow Piece (5)
-
 Prismatic Lacewing JarPrismatic Lacewing Jar	
 
     BottleBottle
@@ -1252,11 +915,6 @@ Prismatic Lacewing JarPrismatic Lacewing Jar
 PumpkinPumpkin	
 
     Pumpkin PlatformPumpkin Platform (2)
-
-Console version Mobile version tModLoader version only:
-Pumpkin PlatformPumpkin Platform (2)	
-
-    PumpkinPumpkin
 
 Pumpkin Work BenchPumpkin Work Bench	
 
@@ -1272,24 +930,6 @@ Purple Emperor Butterfly JarPurple Emperor Butterfly Jar
     Purple Emperor ButterflyPurple Emperor Butterfly
     BottleBottle
 
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Purple StringPurple String	
-
-    White StringWhite String
-    Purple DyePurple Dye
-
-Console version Mobile version tModLoader version only:
-Purple TorchPurple Torch (10)	
-
-    TorchTorch (10)
-    AmethystAmethyst
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Purple TorchPurple Torch (3)	
-
-    TorchTorch (3)
-    AmethystAmethyst
-
 Rainbow CampfireRainbow Campfire	
 
     Any WoodAny Wood (10)
@@ -1298,24 +938,6 @@ Rainbow CampfireRainbow Campfire
 Rainbow FlareRainbow Flare (10)	
 
     FlareFlare (10)
-    Rainbow BrickRainbow Brick
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Rainbow StringRainbow String	
-
-    White StringWhite String
-    Rainbow DyeRainbow Dye
-
-Console version Mobile version tModLoader version only:
-Rainbow TorchRainbow Torch (10)	
-
-    TorchTorch (10)
-    Rainbow BrickRainbow Brick
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Rainbow TorchRainbow Torch (3)	
-
-    TorchTorch (3)
     Rainbow BrickRainbow Brick
 
 Rat CageRat Cage	
@@ -1337,24 +959,6 @@ Red Squirrel CageRed Squirrel Cage
 
     TerrariumTerrarium
     Red SquirrelRed Squirrel
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Red StringRed String	
-
-    White StringWhite String
-    Red DyeRed Dye
-
-Console version Mobile version tModLoader version only:
-Red TorchRed Torch (10)	
-
-    TorchTorch (10)
-    RubyRuby
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Red TorchRed Torch (3)	
-
-    TorchTorch (3)
-    RubyRuby
 
 Reef BlockReef Block	
 
@@ -1486,17 +1090,6 @@ Silver CoinSilver Coin
 
     Copper CoinCopper Coin (100)
 
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Sky Blue StringSky Blue String	
-
-    White StringWhite String
-    Sky Blue DyeSky Blue Dye
-
-Console version Mobile version tModLoader version only:
-Skyware PlatformSkyware Platform (2)	
-
-    Sunplate BlockSunplate Block
-
 Slime BlockSlime Block	
 
     Slime PlatformSlime Platform (2)
@@ -1504,11 +1097,6 @@ Slime BlockSlime Block
 Slime PlatformSlime Platform (2)	
 
     Slime BlockSlime Block
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Slime Work BenchSlime Work Bench	
-
-    Slime BlockSlime Block (10)
 
 Sluggy CageSluggy Cage	
 
@@ -1531,16 +1119,6 @@ Snail CageSnail Cage
 
     TerrariumTerrarium
     SnailSnail
-
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-SnowballSnowball (15)	
-
-    Snow BlockSnow Block
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-SnowballSnowball (10)	
-
-    Snow BlockSnow Block
 
 Solar BrickSolar Brick	
 
@@ -1627,11 +1205,6 @@ Stardust PlatformStardust Platform (2)
 
     Stardust BrickStardust Brick
 
-Console version Mobile version tModLoader version only:
-Steampunk PlatformSteampunk Platform (2)	
-
-    CogCog
-
 Sticky BombSticky Bomb	
 
     BombBomb
@@ -1677,12 +1250,6 @@ Sulphur Butterfly JarSulphur Butterfly Jar
 Sunplate BlockSunplate Block	
 
     Skyware PlatformSkyware Platform (2)
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Teal StringTeal String	
-
-    White StringWhite String
-    Teal DyeTeal Dye
 
 TNT BarrelTNT Barrel	
 
@@ -1739,29 +1306,9 @@ Ulysses Butterfly JarUlysses Butterfly Jar
     Ulysses ButterflyUlysses Butterfly
     BottleBottle
 
-Console version Mobile version Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Unholy WaterUnholy Water (10)	
-
-    Bottled WaterBottled Water (10)
-    Ebonsand BlockEbonsand Block
-    Corrupt SeedsCorrupt Seeds
-
-Old-gen console version Windows Phone version Nintendo 3DS version only:
-Unholy WaterUnholy Water (5)	
-
-    Bottled WaterBottled Water
-    Ebonsand BlockEbonsand Block
-    Corrupt SeedsCorrupt Seeds
-
 Vine Rope CoilVine Rope Coil	
 
     Vine RopeVine Rope (10)
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Violet StringViolet String	
-
-    White StringWhite String
-    Violet DyeViolet Dye
 
 Vortex BrickVortex Brick	
 
@@ -1789,18 +1336,6 @@ Web Rope CoilWeb Rope Coil
 
     Web RopeWeb Rope (10)
 
-Console version Mobile version tModLoader version only:
-White TorchWhite Torch (10)	
-
-    TorchTorch (10)
-    DiamondDiamond
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-White TorchWhite Torch (3)	
-
-    TorchTorch (3)
-    DiamondDiamond
-
 WoodWood	
 
     Wood PlatformWood Platform (2)
@@ -1827,24 +1362,6 @@ Yellow Dragonfly JarYellow Dragonfly Jar
 
     Yellow DragonflyYellow Dragonfly
     BottleBottle
-
-Old Chinese version tModLoader version tModLoader 1.3-Legacy version only:
-Yellow StringYellow String	
-
-    White StringWhite String
-    Yellow DyeYellow Dye
-
-Console version Mobile version tModLoader version only:
-Yellow TorchYellow Torch (10)	
-
-    TorchTorch (10)
-    TopazTopaz
-
-Old-gen console version Windows Phone version Old Chinese version Nintendo 3DS version tModLoader version tModLoader 1.3-Legacy version only:
-Yellow TorchYellow Torch (3)	
-
-    TorchTorch (3)
-    TopazTopaz
 
 Zebra Swallowtail Butterfly JarZebra Swallowtail Butterfly Jar	
 

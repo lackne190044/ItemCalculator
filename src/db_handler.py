@@ -18,7 +18,8 @@ class DB_Handler:
         """Add Item to database and refresh it."""
         with self.session_factory() as session:
             session.add(item)
-#            session.refresh(item)
+            session.commit()
+            session.refresh(item)
         return item
 
     def bulk_add_to_db(self, items):
@@ -26,17 +27,27 @@ class DB_Handler:
             session.bulk_save_objects(items)
             session.commit()
 
-    def search_item(self, item):
-        """Search for Player in database."""
+    def search_item(self, item: str):
+        """Search for Item in database."""
         with self.session_factory() as session:
             filtered = (
                 session.query(Item)
-                .filter(Item.item_name.is_(item.item_name))
+                .filter(Item.item_name.is_(item))
                 .all()[0]
                 )
-            return filtered
+        return filtered
 
     def commit_db(self):
         with self.session_factory() as session:
+            session.commit()
+
+    # def update_item(self, item):
+    #     with self.session_factory() as session:
+    #         session.
+
+    def remove_item(self, item):
+        """Remove Item from database."""
+        with self.session_factory() as session:
+            session.delete(item)
             session.commit()
 

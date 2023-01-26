@@ -1,5 +1,6 @@
 venv/
 __pychache__/
+*.egg-info/
 *.db
 *.pyc
 

@@ -13,19 +13,25 @@ class Item(Base):
     item_name = sqlalchemy.Column(sqlalchemy.String)
 
     def __repr__(self) -> str:
-        return str(self.item_name)
+        return f"{self.item_id}: {self.item_name}"
 
 
 class Recipe(Base):
     """Recipe representation."""
 
     __tablename__ = "recipe"
+    recipe_id = sqlalchemy.Column(sqlalchemy.Integer, primary_key=True)
     item_id = sqlalchemy.Column(sqlalchemy.Integer,
                                 sqlalchemy.ForeignKey("item.item_id"),
                                 nullable=False)
+                                # primary_key=True)
     resource_id = sqlalchemy.Column(sqlalchemy.Integer,
                                 sqlalchemy.ForeignKey("item.item_id"),
                                 nullable=False)
+                                # primary_key=True)
     resource_amount = sqlalchemy.Column(sqlalchemy.Integer)
-    __table_args__ = (sqlalchemy.PrimaryKeyConstraint('item_id', 'resource_id', name='PartofItem'), )
+    item_amount = sqlalchemy.Column(sqlalchemy.Integer)
+    # __table_args__ = (
+    #         sqlalchemy.PrimaryKeyConstraint(item_id, resource_id), {},
+    #         )
 

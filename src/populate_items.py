@@ -6,11 +6,11 @@ handler = DB_Handler("sqlite:///items.db")
 with open('Data/items.txt', 'r') as f:
     data = f.readlines()
 
-
 objects = []
 
 count = 0
 for i in data:
+    i = i.replace("\t", "")
     count += 1
     name = ' '.join(i.split(' ')[1:-1])
     objects.append(Item(item_name=name))

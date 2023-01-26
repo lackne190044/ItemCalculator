@@ -5453,3 +5453,5 @@
 5453 	Guide to Critter Companionship (Inactive) 	DontHurtCrittersBookInactive
 5454 	Guide to Environmental Preservation (Inactive) 	DontHurtNatureBookInactive
 5455 	Guide to Peaceful Coexistence (Inactive) 	DontHurtComboBookInactive
+5456 	Any Wood AnyWood
+5457 	Any Balloon AnyBalloon
