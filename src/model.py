@@ -30,7 +30,9 @@ class Recipe(Base):
                                 nullable=False)
                                 # primary_key=True)
     resource_amount = sqlalchemy.Column(sqlalchemy.Integer)
-    item_amount = sqlalchemy.Column(sqlalchemy.Integer)
+
+    def __repr__(self) -> str:
+        return f"{self.item_id}: {self.resource_id}|{self.resource_amount}"
     # __table_args__ = (
     #         sqlalchemy.PrimaryKeyConstraint(item_id, resource_id), {},
     #         )

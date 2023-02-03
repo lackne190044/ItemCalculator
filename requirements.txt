@@ -1,4 +1,5 @@
 sqlalchemy
 debugpy
 pytest
+keyboard
 

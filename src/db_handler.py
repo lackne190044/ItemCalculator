@@ -1,9 +1,10 @@
 import sqlalchemy
 import sqlalchemy.orm
+from abc import ABC
 
-from model import Base, Item
+from src.model import Base, Item
 
-class DB_Handler:
+class DB_Handler(ABC):
     def __init__(self, database):
         self.session_factory = self.make_connection(database)
 
@@ -27,15 +28,8 @@ class DB_Handler:
             session.bulk_save_objects(items)
             session.commit()
 
-    def search_item(self, item: str):
-        """Search for Item in database."""
-        with self.session_factory() as session:
-            filtered = (
-                session.query(Item)
-                .filter(Item.item_name.is_(item))
-                .all()[0]
-                )
-        return filtered
+    def search(self):
+        raise NotImplemented("search is not implemented")
 
     def commit_db(self):
         with self.session_factory() as session:
