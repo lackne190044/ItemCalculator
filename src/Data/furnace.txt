@@ -1,0 +1,201 @@
+Aetherium BrickAetherium Brick	
+
+    Aetherium BlockAetherium Block
+    Stone BlockStone Block
+
+Argon Moss BrickArgon Moss Brick (10)	
+
+    Argon MossArgon Moss
+    Clay BlockClay Block (10)
+
+BottleBottle (2)	
+
+    GlassGlass
+
+BowlBowl	
+
+    Clay BlockClay Block (2)
+
+Cobalt BarCobalt Bar	
+
+    Cobalt OreCobalt Ore (3)
+
+Crimstone BrickCrimstone Brick	
+
+    Crimstone BlockCrimstone Block (2)
+
+Demonite BrickDemonite Brick (5)	
+
+    Demonite OreDemonite Ore
+    Ebonstone BlockEbonstone Block (5)
+
+Ebonstone BrickEbonstone Brick	
+
+    Ebonstone BlockEbonstone Block (2)
+
+GlassGlass	
+
+    Any SandAny Sand (2)
+
+Glass BowlGlass Bowl (2)	
+
+    GlassGlass
+
+Gold BarGold Bar	
+
+    Gold OreGold Ore (4)
+
+Gray BrickGray Brick	
+
+    Stone BlockStone Block (2)
+
+Gray StuccoGray Stucco (10)	
+
+    Silt BlockSilt Block
+    Stone BlockStone Block (10)
+
+Helium Moss BrickHelium Moss Brick (10)	
+
+    Helium MossHelium Moss
+    Clay BlockClay Block (10)
+
+Iridescent BrickIridescent Brick	
+
+    Stone BlockStone Block
+    Ash BlockAsh Block
+
+Iron BarIron Bar	
+
+    Iron OreIron Ore (3)
+
+Iron BrickIron Brick (5)	
+
+    Stone BlockStone Block (5)
+    Iron OreIron Ore
+
+Krypton Moss BrickKrypton Moss Brick (10)	
+
+    Krypton MossKrypton Moss
+    Clay BlockClay Block (10)
+
+Lava Moss BrickLava Moss Brick (10)	
+
+    Lava MossLava Moss
+    Clay BlockClay Block (10)
+
+Lead BarLead Bar	
+
+    Lead OreLead Ore (3)
+
+Lead BrickLead Brick (5)	
+
+    Stone BlockStone Block (5)
+    Lead OreLead Ore
+
+Meteorite BarMeteorite Bar	
+
+    MeteoriteMeteorite (3)
+
+Mudstone BrickMudstone Brick	
+
+    Stone BlockStone Block
+    Mud BlockMud Block
+
+MugMug	
+
+    GlassGlass
+
+Mythril BarMythril Bar	
+
+    Mythril OreMythril Ore (4)
+
+Neon Moss BrickNeon Moss Brick (10)	
+
+    Neon MossNeon Moss
+    Clay BlockClay Block (10)
+
+Obsidian SkullObsidian Skull	
+
+    ObsidianObsidian (20)
+
+Orichalcum BarOrichalcum Bar	
+
+    Orichalcum OreOrichalcum Ore (4)
+
+Palladium BarPalladium Bar	
+
+    Palladium OrePalladium Ore (3)
+
+Pink VasePink Vase	
+
+    Clay BlockClay Block (4)
+
+PlatePlate	
+
+    Clay BlockClay Block (2)
+
+Platinum BarPlatinum Bar	
+
+    Platinum OrePlatinum Ore (4)
+
+Pumpkin PiePumpkin Pie	
+
+    PumpkinPumpkin (10)
+
+Red BrickRed Brick	
+
+    Clay BlockClay Block (2)
+
+Red StuccoRed Stucco (10)	
+
+    Silt BlockSilt Block
+    Clay BlockClay Block (10)
+
+SandgunSandgun	
+
+    Illegal Gun PartsIllegal Gun Parts
+    Antlion MandibleAntlion Mandible (10)
+    TopazTopaz (5)
+
+Sandstone BrickSandstone Brick	
+
+    Sand BlockSand Block
+
+Silver BarSilver Bar	
+
+    Silver OreSilver Ore (4)
+
+Smooth SandstoneSmooth Sandstone	
+
+    Sandstone BlockSandstone Block
+
+TeapotTeapot	
+
+    Clay BlockClay Block (12)
+    BoneBone (12)
+
+TerrariumTerrarium	
+
+    GlassGlass (16)
+
+Tin BarTin Bar	
+
+    Tin OreTin Ore (3)
+
+Tungsten BarTungsten Bar	
+
+    Tungsten OreTungsten Ore (4)
+
+Wine GlassWine Glass	
+
+    GlassGlass
+
+Xenon Moss BrickXenon Moss Brick (10)	
+
+    Xenon MossXenon Moss
+    Clay BlockClay Block (10)
+
+Yellow StuccoYellow Stucco (10)	
+
+    Silt BlockSilt Block
+    Sand BlockSand Block (10)

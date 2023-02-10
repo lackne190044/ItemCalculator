@@ -45,10 +45,6 @@ Amethyst Squirrel CageAmethyst Squirrel Cage
     TerrariumTerrarium
     Amethyst SquirrelAmethyst Squirrel
 
-Ash WoodAsh Wood	
-
-    Ash Wood PlatformAsh Wood Platform (2)
-
 Ash Wood PlatformAsh Wood Platform (2)	
 
     Ash WoodAsh Wood
@@ -64,10 +60,6 @@ Balloon PlatformBalloon Platform (2)
 Balloon Work BenchBalloon Work Bench	
 
     Any BalloonAny Balloon (10)
-
-BambooBamboo	
-
-    Bamboo PlatformBamboo Platform (2)
 
 Bamboo PlatformBamboo Platform (2)	
 
@@ -123,18 +115,10 @@ Blue Macaw CageBlue Macaw Cage
     TerrariumTerrarium
     Blue MacawBlue Macaw
 
-BoneBone	
-
-    Bone PlatformBone Platform (2)
-
 Bone CampfireBone Campfire	
 
     Any WoodAny Wood (10)
     Bone TorchBone Torch (5)
-
-Boreal WoodBoreal Wood	
-
-    Boreal Wood PlatformBoreal Wood Platform (2)
 
 Boreal Wood PlatformBoreal Wood Platform (2)	
 
@@ -174,10 +158,6 @@ Bunny CageBunny Cage
     TerrariumTerrarium
     BunnyBunny
 
-CactusCactus	
-
-    Cactus PlatformCactus Platform (2)
-
 Cactus Work BenchCactus Work Bench	
 
     CactusCactus (10)
@@ -186,10 +166,6 @@ Cardinal CageCardinal Cage
 
     TerrariumTerrarium
     CardinalCardinal
-
-CogCog	
-
-    Steampunk PlatformSteampunk Platform (2)
 
 Copper CoinCopper Coin (100)	
 
@@ -210,17 +186,6 @@ Corrupt CampfireCorrupt Campfire
     Any WoodAny Wood (10)
     Corrupt TorchCorrupt Torch (5)
 
-Corrupt TorchCorrupt Torch (3)	
-
-    TorchTorch (3)
-    Ebonstone BlockEbonstone Block
-
-    TorchTorch (3)
-    Purple Ice BlockPurple Ice Block
-
-    TorchTorch (3)
-    Hardened Ebonsand BlockHardened Ebonsand Block
-
 Crimson CampfireCrimson Campfire	
 
     Any WoodAny Wood (10)
@@ -236,10 +201,6 @@ Crimson TorchCrimson Torch (3)
 
     TorchTorch (3)
     Hardened Crimsand BlockHardened Crimsand Block
-
-Crystal BlockCrystal Block	
-
-    Crystal PlatformCrystal Platform (2)
 
 Crystal DartCrystal Dart (100)	
 
@@ -337,10 +298,6 @@ Duck CageDuck Cage
     TerrariumTerrarium
     DuckDuck
 
-Dynasty WoodDynasty Wood	
-
-    Dynasty Wood PlatformDynasty Wood Platform (2)
-
 Dynasty Wood PlatformDynasty Wood Platform (2)	
 
     Dynasty WoodDynasty Wood
@@ -349,10 +306,6 @@ Dynasty Work BenchDynasty Work Bench
 
     Dynasty WoodDynasty Wood (10)
 
-EbonwoodEbonwood	
-
-    Ebonwood PlatformEbonwood Platform (2)
-
 Ebonwood PlatformEbonwood Platform (2)	
 
     EbonwoodEbonwood
@@ -360,10 +313,6 @@ Ebonwood PlatformEbonwood Platform (2)
 Ebonwood Work BenchEbonwood Work Bench	
 
     EbonwoodEbonwood (10)
-
-Echo BlockEcho Block	
-
-    Echo PlatformEcho Platform (2)
 
 Echo PlatformEcho Platform (2)	
 
@@ -424,10 +373,6 @@ Flaming MaceFlaming Mace
     MaceMace
     TorchTorch (99)
 
-Flesh BlockFlesh Block	
-
-    Flesh PlatformFlesh Platform (2)
-
 Flesh PlatformFlesh Platform (2)	
 
     Flesh BlockFlesh Block
@@ -465,14 +410,6 @@ Gentleman's BeardGentleman's Beard
 Gentleman's Long BeardGentleman's Long Beard	
 
     Gentleman's Magnificent BeardGentleman's Magnificent Beard
-
-GlassGlass	
-
-    Glass PlatformGlass Platform (2)
-
-Glowing MushroomGlowing Mushroom	
-
-    Mushroom PlatformMushroom Platform (2)
 
 Glowing Snail CageGlowing Snail Cage	
 
@@ -564,10 +501,6 @@ Grasshopper CageGrasshopper Cage
 
     TerrariumTerrarium
     GrasshopperGrasshopper
-
-Gray BrickGray Brick	
-
-    Stone PlatformStone Platform (2)
 
 Gray Cockatiel CageGray Cockatiel Cage	
 
@@ -670,14 +603,6 @@ Hell Butterfly JarHell Butterfly Jar
     BottleBottle
     Hell ButterflyHell Butterfly
 
-Honey BlockHoney Block	
-
-    Honey PlatformHoney Platform (2)
-
-Ice BlockIce Block	
-
-    Frozen PlatformFrozen Platform (2)
-
 Ice TorchIce Torch (3)	
 
     TorchTorch (3)
@@ -736,10 +661,6 @@ Lavafly in a BottleLavafly in a Bottle
     BottleBottle
     LavaflyLavafly
 
-Lesion BlockLesion Block	
-
-    Lesion PlatformLesion Platform (2)
-
 Lesion PlatformLesion Platform (2)	
 
     Lesion BlockLesion Block
@@ -748,10 +669,6 @@ Lightning Bug in a BottleLightning Bug in a Bottle
 
     BottleBottle
     Lightning BugLightning Bug
-
-Lihzahrd BrickLihzahrd Brick	
-
-    Lihzahrd PlatformLihzahrd Platform (2)
 
 Lihzahrd PlatformLihzahrd Platform (2)	
 
@@ -785,10 +702,6 @@ Marshmallow on a StickMarshmallow on a Stick
     MarshmallowMarshmallow
     Any WoodAny Wood
 
-Martian Conduit PlatingMartian Conduit Plating	
-
-    Martian PlatformMartian Platform (2)
-
 Martian PlatformMartian Platform (2)	
 
     Martian Conduit PlatingMartian Conduit Plating
@@ -796,10 +709,6 @@ Martian PlatformMartian Platform (2)
 Martian Work BenchMartian Work Bench	
 
     Martian Conduit PlatingMartian Conduit Plating (10)
-
-Meteorite BrickMeteorite Brick	
-
-    Meteorite PlatformMeteorite Platform (2)
 
 Meteorite PlatformMeteorite Platform (2)	
 
@@ -833,17 +742,9 @@ Mushroom Work BenchMushroom Work Bench
 
     Glowing MushroomGlowing Mushroom (10)
 
-Nebula BrickNebula Brick	
-
-    Nebula PlatformNebula Platform (2)
-
 Nebula PlatformNebula Platform (2)	
 
     Nebula BrickNebula Brick
-
-Obsidian BrickObsidian Brick	
-
-    Obsidian PlatformObsidian Platform (2)
 
 Obsidian PlatformObsidian Platform (2)	
 
@@ -859,10 +760,6 @@ Owl CageOwl Cage
     TerrariumTerrarium
     OwlOwl
 
-Palm WoodPalm Wood	
-
-    Palm Wood PlatformPalm Wood Platform (2)
-
 Palm Wood PlatformPalm Wood Platform (2)	
 
     Palm WoodPalm Wood
@@ -870,10 +767,6 @@ Palm Wood PlatformPalm Wood Platform (2)
 Palm Wood Work BenchPalm Wood Work Bench	
 
     Palm WoodPalm Wood (10)
-
-PearlwoodPearlwood	
-
-    Pearlwood PlatformPearlwood Platform (2)
 
 Pearlwood PlatformPearlwood Platform (2)	
 
@@ -911,10 +804,6 @@ Prismatic Lacewing JarPrismatic Lacewing Jar
 
     BottleBottle
     Prismatic LacewingPrismatic Lacewing
-
-PumpkinPumpkin	
-
-    Pumpkin PlatformPumpkin Platform (2)
 
 Pumpkin Work BenchPumpkin Work Bench	
 
@@ -960,10 +849,6 @@ Red Squirrel CageRed Squirrel Cage
     TerrariumTerrarium
     Red SquirrelRed Squirrel
 
-Reef BlockReef Block	
-
-    Reef PlatformReef Platform (2)
-
 Reef PlatformReef Platform (2)	
 
     Reef BlockReef Block
@@ -976,10 +861,6 @@ Resplendent DessertResplendent Dessert
 
     Royal DelightRoyal Delight
     Regal DelicacyRegal Delicacy
-
-Rich MahoganyRich Mahogany	
-
-    Rich Mahogany PlatformRich Mahogany Platform (2)
 
 Rich Mahogany PlatformRich Mahogany Platform (2)	
 
@@ -1056,10 +937,6 @@ Seahorse CageSeahorse Cage
     TerrariumTerrarium
     SeahorseSeahorse
 
-ShadewoodShadewood	
-
-    Shadewood PlatformShadewood Platform (2)
-
 Shadewood PlatformShadewood Platform (2)	
 
     ShadewoodShadewood
@@ -1071,10 +948,6 @@ Shadewood Work BenchShadewood Work Bench
 Silk Rope CoilSilk Rope Coil	
 
     Silk RopeSilk Rope (10)
-
-Silly Green BalloonSilly Green Balloon	
-
-    Balloon PlatformBalloon Platform (2)
 
 Silly Tied Bundle of BalloonsSilly Tied Bundle of Balloons	
 
@@ -1090,10 +963,6 @@ Silver CoinSilver Coin
 
     Copper CoinCopper Coin (100)
 
-Slime BlockSlime Block	
-
-    Slime PlatformSlime Platform (2)
-
 Slime PlatformSlime Platform (2)	
 
     Slime BlockSlime Block
@@ -1103,26 +972,10 @@ Sluggy CageSluggy Cage
     TerrariumTerrarium
     SluggySluggy
 
-Smooth Granite BlockSmooth Granite Block	
-
-    Granite PlatformGranite Platform (2)
-
-Smooth Marble BlockSmooth Marble Block	
-
-    Marble PlatformMarble Platform (2)
-
-Smooth SandstoneSmooth Sandstone	
-
-    Sandstone PlatformSandstone Platform (2)
-
 Snail CageSnail Cage	
 
     TerrariumTerrarium
     SnailSnail
-
-Solar BrickSolar Brick	
-
-    Solar PlatformSolar Platform (2)
 
 Solar PlatformSolar Platform (2)	
 
@@ -1163,10 +1016,6 @@ Spelunker FlareSpelunker Flare
     FlareFlare
     Spelunker GlowstickSpelunker Glowstick
 
-Spider Nest BlockSpider Nest Block	
-
-    Spider PlatformSpider Platform (2)
-
 Spider PlatformSpider Platform (2)	
 
     Spider Nest BlockSpider Nest Block
@@ -1174,10 +1023,6 @@ Spider PlatformSpider Platform (2)
 Spider Work BenchSpider Work Bench	
 
     Spider Nest BlockSpider Nest Block (10)
-
-Spooky WoodSpooky Wood	
-
-    Spooky Wood PlatformSpooky Wood Platform (2)
 
 Spooky Wood PlatformSpooky Wood Platform (2)	
 
@@ -1196,10 +1041,6 @@ Star in a BottleStar in a Bottle
 
     BottleBottle
     Fallen StarFallen Star
-
-Stardust BrickStardust Brick	
-
-    Stardust PlatformStardust Platform (2)
 
 Stardust PlatformStardust Platform (2)	
 
@@ -1246,10 +1087,6 @@ Sulphur Butterfly JarSulphur Butterfly Jar
 
     Sulphur ButterflySulphur Butterfly
     BottleBottle
-
-Sunplate BlockSunplate Block	
-
-    Skyware PlatformSkyware Platform (2)
 
 TNT BarrelTNT Barrel	
 
@@ -1310,10 +1147,6 @@ Vine Rope CoilVine Rope Coil
 
     Vine RopeVine Rope (10)
 
-Vortex BrickVortex Brick	
-
-    Vortex PlatformVortex Platform (2)
-
 Vortex PlatformVortex Platform (2)	
 
     Vortex BrickVortex Brick
@@ -1335,10 +1168,6 @@ Web RopeWeb Rope (3)
 Web Rope CoilWeb Rope Coil	
 
     Web RopeWeb Rope (10)
-
-WoodWood	
-
-    Wood PlatformWood Platform (2)
 
 Wood PlatformWood Platform (2)	
 

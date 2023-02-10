@@ -5455,3 +5455,6 @@
 5455 	Guide to Peaceful Coexistence (Inactive) 	DontHurtComboBookInactive
 5456 	Any Wood AnyWood
 5457 	Any Balloon AnyBalloon
+5458 	Any Sand AnySand
+5459 	Any Iron Bar AnyIronBar
+5450 	Any Pressure Plate AnyPressurePlate

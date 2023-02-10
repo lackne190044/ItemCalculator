@@ -1,0 +1,843 @@
+1 Second Timer1 Second Timer	
+
+    Gold WatchGold Watch
+    WireWire
+
+    Platinum WatchPlatinum Watch
+    WireWire
+
+3 Second Timer3 Second Timer	
+
+    Silver WatchSilver Watch
+    WireWire
+
+    Tungsten WatchTungsten Watch
+    WireWire
+
+5 Second Timer5 Second Timer	
+
+    Copper WatchCopper Watch
+    WireWire
+
+    Tin WatchTin Watch
+    WireWire
+
+Actuation RodActuation Rod	
+
+    ActuatorActuator (50)
+    Any Iron BarAny Iron Bar (10)
+    WireWire (10)
+
+Amber HookAmber Hook	
+
+    AmberAmber (15)
+
+Amber MinecartAmber Minecart	
+
+    MinecartMinecart
+    Large AmberLarge Amber
+
+Amber StaffAmber Staff	
+
+    Sturdy FossilSturdy Fossil (15)
+    AmberAmber (8)
+
+Amethyst HookAmethyst Hook	
+
+    AmethystAmethyst (15)
+
+Amethyst MinecartAmethyst Minecart	
+
+    MinecartMinecart
+    Large AmethystLarge Amethyst
+
+Amethyst StaffAmethyst Staff	
+
+    Copper BarCopper Bar (10)
+    AmethystAmethyst (8)
+
+Announcement BoxAnnouncement Box	
+
+    SignSign
+    Any Iron BarAny Iron Bar (4)
+    WireWire (4)
+
+ArteryArtery	
+
+    Crimtane BarCrimtane Bar (12)
+
+Ash Wood ChandelierAsh Wood Chandelier	
+
+    Ash WoodAsh Wood (4)
+    TorchTorch (4)
+    ChainChain
+
+Balloon ChandelierBalloon Chandelier	
+
+    Any BalloonAny Balloon (4)
+    TorchTorch (4)
+    ChainChain
+
+Bamboo ChandelierBamboo Chandelier	
+
+    BambooBamboo (4)
+    TorchTorch (4)
+    ChainChain
+
+BathtubBathtub	
+
+    Any Iron BarAny Iron Bar (14)
+
+Bee BreastplateBee Breastplate	
+
+    Bee WaxBee Wax (12)
+
+Bee GreavesBee Greaves	
+
+    Bee WaxBee Wax (10)
+
+Bee HeadgearBee Headgear	
+
+    Bee WaxBee Wax (8)
+
+Beetle MinecartBeetle Minecart	
+
+    MinecartMinecart
+    Beetle HuskBeetle Husk (8)
+
+Blood ButchererBlood Butcherer	
+
+    Crimtane BarCrimtane Bar (10)
+
+Blood Lust ClusterBlood Lust Cluster	
+
+    Crimtane BarCrimtane Bar (10)
+
+Boreal Wood ChandelierBoreal Wood Chandelier	
+
+    Boreal WoodBoreal Wood (4)
+    Ice TorchIce Torch (4)
+    ChainChain
+
+ChainChain (15)	
+
+    Any Iron BarAny Iron Bar
+
+Chest LockChest Lock	
+
+    ChainChain (2)
+    BoneBone (5)
+
+Cobalt BreastplateCobalt Breastplate	
+
+    Cobalt BarCobalt Bar (20)
+
+Cobalt ChainsawCobalt Chainsaw	
+
+    Cobalt BarCobalt Bar (10)
+
+Cobalt DrillCobalt Drill	
+
+    Cobalt BarCobalt Bar (15)
+
+Cobalt HatCobalt Hat	
+
+    Cobalt BarCobalt Bar (10)
+
+Cobalt HelmetCobalt Helmet	
+
+    Cobalt BarCobalt Bar (10)
+
+Cobalt LeggingsCobalt Leggings	
+
+    Cobalt BarCobalt Bar (15)
+
+Cobalt MaskCobalt Mask	
+
+    Cobalt BarCobalt Bar (10)
+
+Cobalt NaginataCobalt Naginata	
+
+    Cobalt BarCobalt Bar (10)
+
+Cobalt PickaxeCobalt Pickaxe	
+
+    Cobalt BarCobalt Bar (15)
+
+Cobalt RepeaterCobalt Repeater	
+
+    Cobalt BarCobalt Bar (10)
+
+
+Cobalt WaraxeCobalt Waraxe	
+
+    Cobalt BarCobalt Bar (10)
+
+Cooking PotCooking Pot	
+
+    Any Iron BarAny Iron Bar (10)
+    Any WoodAny Wood (2)
+
+Copper BowCopper Bow	
+
+    Copper BarCopper Bar (7)
+
+Copper ChandelierCopper Chandelier	
+
+    Copper BarCopper Bar (4)
+    TorchTorch (4)
+    ChainChain
+Crimson GreavesCrimson Greaves	
+
+    Crimtane BarCrimtane Bar (20)
+    Tissue SampleTissue Sample (15)
+
+Crimson HelmetCrimson Helmet	
+
+    Crimtane BarCrimtane Bar (15)
+    Tissue SampleTissue Sample (10)
+
+Crimson ScalemailCrimson Scalemail	
+
+    Crimtane BarCrimtane Bar (25)
+    Tissue SampleTissue Sample (20)
+
+Crystal ChandelierCrystal Chandelier	
+
+    Crystal BlockCrystal Block (10)
+    TorchTorch (4)
+    ChainChain
+
+Deathbringer PickaxeDeathbringer Pickaxe	
+
+    Crimtane BarCrimtane Bar (12)
+    Tissue SampleTissue Sample (6)
+
+Demon BowDemon Bow	
+
+    Demonite BarDemonite Bar (8)
+
+Diamond HookDiamond Hook	
+
+    DiamondDiamond (15)
+
+Diamond MinecartDiamond Minecart	
+
+    MinecartMinecart
+    Large DiamondLarge Diamond
+
+Diamond StaffDiamond Staff	
+
+    Platinum BarPlatinum Bar (10)
+    DiamondDiamond (8)
+
+Ebonwood ChandelierEbonwood Chandelier	
+
+    EbonwoodEbonwood (4)
+    TorchTorch (4)
+    ChainChain
+
+Emerald HookEmerald Hook	
+
+    EmeraldEmerald (15)
+
+Emerald MinecartEmerald Minecart	
+
+    MinecartMinecart
+    Large EmeraldLarge Emerald
+
+Emerald StaffEmerald Staff	
+
+    Tungsten BarTungsten Bar (10)
+    EmeraldEmerald (8)
+
+Fart KartFart Kart	
+
+    MinecartMinecart
+    Whoopie CushionWhoopie Cushion
+
+Fisher of SoulsFisher of Souls	
+
+    Demonite BarDemonite Bar (8)
+
+FlamarangFlamarang	
+
+    Hellstone BarHellstone Bar (10)
+    Enchanted BoomerangEnchanted Boomerang
+
+Flesh GrinderFlesh Grinder	
+
+    Crimtane BarCrimtane Bar (10)
+    Tissue SampleTissue Sample (5)
+
+FleshcatcherFleshcatcher	
+
+    Crimtane BarCrimtane Bar (8)
+
+Fossil PickaxeFossil Pickaxe	
+
+    Sturdy FossilSturdy Fossil (12)
+    Any WoodAny Wood (4)
+
+Glass KilnGlass Kiln	
+
+    Any Iron BarAny Iron Bar (18)
+    TorchTorch (8)
+
+Gold BowGold Bow	
+
+    Gold BarGold Bar (7)
+
+Gold BroadswordGold Broadsword	
+
+    Gold BarGold Bar (8)
+
+Gold ChandelierGold Chandelier	
+
+    Gold BarGold Bar (4)
+    TorchTorch (4)
+    ChainChain
+
+Granite ChandelierGranite Chandelier	
+
+    Smooth Granite BlockSmooth Granite Block (4)
+    TorchTorch (4)
+    ChainChain
+
+Grappling HookGrappling Hook	
+
+    ChainChain (3)
+    HookHook
+
+GrateGrate	
+
+    Any Iron BarAny Iron Bar
+
+Heavy Work BenchHeavy Work Bench	
+
+    Any WoodAny Wood (12)
+    Any Iron BarAny Iron Bar (8)
+
+Hive-FiveHive-Five	
+
+    Bee WaxBee Wax (14)
+
+Hornet StaffHornet Staff	
+
+    Bee WaxBee Wax (14)
+
+Imp StaffImp Staff	
+
+    Hellstone BarHellstone Bar (17)
+
+Inlet PumpInlet Pump	
+
+    Any Iron BarAny Iron Bar (10)
+    WireWire (2)
+
+Iron BarIron Bar	
+
+    Iron FenceIron Fence (4)
+
+Iron BowIron Bow	
+
+    Iron BarIron Bar (7)
+
+Iron BroadswordIron Broadsword	
+
+    Iron BarIron Bar (8)
+
+Iron DoorIron Door	
+
+    Iron BarIron Bar (4)
+
+Iron FenceIron Fence (4)	
+
+    Iron BarIron Bar
+
+Ivy WhipIvy Whip	
+
+    Jungle SporesJungle Spores (12)
+    VineVine (3)
+
+Jungle HatJungle Hat	
+
+    Jungle SporesJungle Spores (8)
+
+Jungle PantsJungle Pants	
+
+    Jungle SporesJungle Spores (8)
+    VineVine (2)
+
+Lamp PostLamp Post	
+
+    Any Iron BarAny Iron Bar (3)
+    GlassGlass (2)
+    TorchTorch
+
+Large AmberLarge Amber	
+
+    AmberAmber (15)
+
+Large AmethystLarge Amethyst	
+
+    AmethystAmethyst (15)
+
+Large DiamondLarge Diamond	
+
+    DiamondDiamond (15)
+
+Large EmeraldLarge Emerald	
+
+    EmeraldEmerald (15)
+
+Large RubyLarge Ruby	
+
+    RubyRuby (15)
+
+Large SapphireLarge Sapphire	
+
+    SapphireSapphire (15)
+
+Large TopazLarge Topaz	
+
+    TopazTopaz (15)
+
+Lead BarLead Bar	
+
+    Lead FenceLead Fence (4)
+
+Lead BowLead Bow	
+
+    Lead BarLead Bar (7)
+
+Lead BroadswordLead Broadsword	
+
+    Lead BarLead Bar (8)
+
+Lead DoorLead Door	
+
+    Lead BarLead Bar (4)
+
+Lead FenceLead Fence (4)	
+
+    Lead BarLead Bar
+
+Light's BaneLight's Bane	
+
+    Demonite BarDemonite Bar (10)
+
+MagiluminescenceMagiluminescence	
+
+    Demonite BarDemonite Bar (12)
+    TopazTopaz (5)
+
+    Crimtane BarCrimtane Bar (12)
+    TopazTopaz (5)
+
+MalaiseMalaise	
+
+    Demonite BarDemonite Bar (12)
+
+Marble ChandelierMarble Chandelier	
+
+    Smooth Marble BlockSmooth Marble Block (4)
+    TorchTorch (4)
+    ChainChain
+
+Martian ChandelierMartian Chandelier	
+
+    Martian Conduit PlatingMartian Conduit Plating (4)
+    TorchTorch (4)
+    ChainChain
+
+Metal SinkMetal Sink	
+
+    Any Iron BarAny Iron Bar (3)
+    Water BucketWater Bucket
+
+Meteorite ChandelierMeteorite Chandelier	
+
+    Meteorite BrickMeteorite Brick (4)
+    TorchTorch (4)
+    ChainChain
+
+Minecart TrackMinecart Track (50)	
+
+    Any Iron BarAny Iron Bar
+    Any WoodAny Wood
+
+Molten BreastplateMolten Breastplate	
+
+    Hellstone BarHellstone Bar (20)
+
+Molten FuryMolten Fury	
+
+    Hellstone BarHellstone Bar (15)
+
+Molten GreavesMolten Greaves	
+
+    Hellstone BarHellstone Bar (15)
+
+Molten HamaxeMolten Hamaxe	
+
+    Hellstone BarHellstone Bar (15)
+
+Molten HelmetMolten Helmet	
+
+    Hellstone BarHellstone Bar (10)
+
+Molten PickaxeMolten Pickaxe	
+
+    Hellstone BarHellstone Bar (20)
+
+Mushroom ChandelierMushroom Chandelier	
+
+    Glowing MushroomGlowing Mushroom (4)
+    TorchTorch (4)
+    ChainChain
+
+Mythril AnvilMythril Anvil	
+
+    Mythril BarMythril Bar (10)
+
+Nightmare PickaxeNightmare Pickaxe	
+
+    Demonite BarDemonite Bar (12)
+    Shadow ScaleShadow Scale (6)
+
+Orange PhasebladeOrange Phaseblade	
+
+    Meteorite BarMeteorite Bar (15)
+    AmberAmber (10)
+
+Orichalcum AnvilOrichalcum Anvil	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Outlet PumpOutlet Pump	
+
+    Any Iron BarAny Iron Bar (10)
+    WireWire (2)
+
+Palladium BreastplatePalladium Breastplate	
+
+    Palladium BarPalladium Bar (24)
+
+Palladium ChainsawPalladium Chainsaw	
+
+    Palladium BarPalladium Bar (12)
+
+Palladium DrillPalladium Drill	
+
+    Palladium BarPalladium Bar (18)
+
+Palladium HeadgearPalladium Headgear	
+
+    Palladium BarPalladium Bar (12)
+
+Palladium HelmetPalladium Helmet	
+
+    Palladium BarPalladium Bar (12)
+
+Palladium LeggingsPalladium Leggings	
+
+    Palladium BarPalladium Bar (18)
+
+Palladium MaskPalladium Mask	
+
+    Palladium BarPalladium Bar (12)
+
+Palladium PickaxePalladium Pickaxe	
+
+    Palladium BarPalladium Bar (18)
+
+Palladium PikePalladium Pike	
+
+    Palladium BarPalladium Bar (12)
+
+Palladium RepeaterPalladium Repeater	
+
+    Palladium BarPalladium Bar (12)
+
+Palladium WaraxePalladium Waraxe	
+
+    Palladium BarPalladium Bar (12)
+
+Palm Wood ChandelierPalm Wood Chandelier	
+
+    Palm WoodPalm Wood (4)
+    TorchTorch (4)
+    ChainChain
+
+Pearlwood ChandelierPearlwood Chandelier	
+
+    PearlwoodPearlwood (4)
+    TorchTorch (4)
+    ChainChain
+
+Phoenix BlasterPhoenix Blaster	
+
+    Hellstone BarHellstone Bar (10)
+    HandgunHandgun
+
+Platinum BowPlatinum Bow	
+
+    Platinum BarPlatinum Bar (7)
+
+Platinum BroadswordPlatinum Broadsword	
+
+    Platinum BarPlatinum Bar (8)
+
+Platinum ChandelierPlatinum Chandelier	
+
+    Platinum BarPlatinum Bar (4)
+    TorchTorch (4)
+    ChainChain
+
+Pressure Plate TrackPressure Plate Track	
+
+    Minecart TrackMinecart Track
+    Any Pressure PlateAny Pressure Plate
+
+Pumpkin ChandelierPumpkin Chandelier	
+
+    PumpkinPumpkin (4)
+    TorchTorch (4)
+    ChainChain
+
+Reef ChandelierReef Chandelier	
+
+    Reef BlockReef Block (4)
+    TorchTorch (4)
+    ChainChain
+
+Reinforced Fishing PoleReinforced Fishing Pole	
+
+    Any Iron BarAny Iron Bar (8)
+
+Rich Mahogany ChandelierRich Mahogany Chandelier	
+
+    Rich MahoganyRich Mahogany (4)
+    TorchTorch (4)
+    ChainChain
+
+Ruby HookRuby Hook	
+
+    RubyRuby (15)
+
+Ruby MinecartRuby Minecart	
+
+    MinecartMinecart
+    Large RubyLarge Ruby
+
+Ruby StaffRuby Staff	
+
+    Gold BarGold Bar (10)
+    RubyRuby (8)
+
+Sandstone ChandelierSandstone Chandelier	
+
+    Smooth SandstoneSmooth Sandstone (4)
+    TorchTorch (4)
+    ChainChain
+
+Sapphire HookSapphire Hook	
+
+    SapphireSapphire (15)
+
+Sapphire MinecartSapphire Minecart	
+
+    MinecartMinecart
+    Large SapphireLarge Sapphire
+
+Sapphire StaffSapphire Staff	
+
+    Silver BarSilver Bar (10)
+    SapphireSapphire (8)
+
+Shadewood ChandelierShadewood Chandelier	
+
+    ShadewoodShadewood (4)
+    TorchTorch (4)
+    ChainChain
+
+Shadow GreavesShadow Greaves	
+
+    Demonite BarDemonite Bar (20)
+    Shadow ScaleShadow Scale (15)
+
+Shadow HelmetShadow Helmet	
+
+    Demonite BarDemonite Bar (15)
+    Shadow ScaleShadow Scale (10)
+
+Shadow ScalemailShadow Scalemail	
+
+    Demonite BarDemonite Bar (25)
+    Shadow ScaleShadow Scale (20)
+
+Silver BowSilver Bow	
+
+    Silver BarSilver Bar (7)
+
+Silver BroadswordSilver Broadsword	
+
+    Silver BarSilver Bar (8)
+
+Silver BulletSilver Bullet (70)	
+
+    Musket BallMusket Ball (70)
+    Silver BarSilver Bar
+
+Silver ChandelierSilver Chandelier	
+
+    Silver BarSilver Bar (4)
+    TorchTorch (4)
+    ChainChain
+
+Silver ShortswordSilver Shortsword	
+
+    Silver BarSilver Bar (6)
+
+Spider BreastplateSpider Breastplate	
+
+    Spider FangSpider Fang (16)
+
+Spider ChandelierSpider Chandelier	
+
+    Spider Nest BlockSpider Nest Block (4)
+    TorchTorch (4)
+    ChainChain
+
+Spider GreavesSpider Greaves	
+
+    Spider FangSpider Fang (12)
+
+Spider MaskSpider Mask	
+
+    Spider FangSpider Fang (8)
+
+Spider StaffSpider Staff	
+
+    Spider FangSpider Fang (16)
+
+Star CannonStar Cannon	
+
+    MinisharkMinishark
+    Meteorite BarMeteorite Bar (20)
+    Fallen StarFallen Star (5)
+
+Tendon BowTendon Bow	
+
+    Crimtane BarCrimtane Bar (8)
+
+Terra Fart KartTerra Fart Kart	
+
+    Fart KartFart Kart
+    Terra ToiletTerra Toilet
+
+Terra ToiletTerra Toilet	
+
+    ToiletToilet
+    Broken Hero SwordBroken Hero Sword
+
+The BreakerThe Breaker	
+
+    Demonite BarDemonite Bar (10)
+    Shadow ScaleShadow Scale (5)
+
+The MeatballThe Meatball	
+
+    Crimtane BarCrimtane Bar (10)
+    Tissue SampleTissue Sample (5)
+
+ThroneThrone	
+
+    SilkSilk (20)
+    Gold BarGold Bar (30)
+
+    SilkSilk (20)
+    Platinum BarPlatinum Bar (30)
+
+Tin BowTin Bow	
+
+    Tin BarTin Bar (7)
+
+Tin ChandelierTin Chandelier	
+
+    Tin BarTin Bar (4)
+    TorchTorch (4)
+    ChainChain
+
+ToiletToilet	
+
+    Any Iron BarAny Iron Bar (6)
+
+Topaz HookTopaz Hook	
+
+    TopazTopaz (15)
+
+Topaz MinecartTopaz Minecart	
+
+    MinecartMinecart
+    Large TopazLarge Topaz
+
+Topaz StaffTopaz Staff	
+
+    Tin BarTin Bar (10)
+    TopazTopaz (8)
+
+Trash CanTrash Can	
+
+    Any Iron BarAny Iron Bar (8)
+
+Tungsten BowTungsten Bow	
+
+    Tungsten BarTungsten Bar (7)
+
+Tungsten BroadswordTungsten Broadsword	
+
+    Tungsten BarTungsten Bar (8)
+
+Tungsten BulletTungsten Bullet (70)	
+
+    Musket BallMusket Ball (70)
+    Tungsten BarTungsten Bar
+
+Tungsten ChandelierTungsten Chandelier	
+
+    Tungsten BarTungsten Bar (4)
+    TorchTorch (4)
+    ChainChain
+
+Tungsten ShortswordTungsten Shortsword	
+
+    Tungsten BarTungsten Bar (6)
+
+Unholy ArrowUnholy Arrow (5)	
+
+    Wooden ArrowWooden Arrow (5)
+    Worm ToothWorm Tooth
+
+VolcanoVolcano	
+
+    Hellstone BarHellstone Bar (20)
+
+War Axe of the NightWar Axe of the Night	
+
+    Demonite BarDemonite Bar (10)
+
+Weather VaneWeather Vane	
+
+    Any Iron BarAny Iron Bar (4)
+
+Blade of GrassBlade of Grass
+
+    StingerStinger (12)
+    Jungle SporesJungle Spores (15)
+    VineVine (3)
+
+Copper Shortsword	
+
+    Copper BarCopper Bar (5)

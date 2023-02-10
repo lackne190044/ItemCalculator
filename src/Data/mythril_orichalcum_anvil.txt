@@ -1,0 +1,694 @@
+Adamantite BreastplateAdamantite Breastplate	
+
+    Adamantite BarAdamantite Bar (24)
+
+Adamantite ChainsawAdamantite Chainsaw	
+
+    Adamantite BarAdamantite Bar (12)
+
+Adamantite DrillAdamantite Drill	
+
+    Adamantite BarAdamantite Bar (18)
+
+Adamantite ForgeAdamantite Forge	
+
+    Adamantite OreAdamantite Ore (30)
+    HellforgeHellforge
+
+Adamantite GlaiveAdamantite Glaive	
+
+    Adamantite BarAdamantite Bar (12)
+
+Adamantite HeadgearAdamantite Headgear	
+
+    Adamantite BarAdamantite Bar (12)
+
+Adamantite HelmetAdamantite Helmet	
+
+    Adamantite BarAdamantite Bar (12)
+
+Adamantite LeggingsAdamantite Leggings	
+
+    Adamantite BarAdamantite Bar (18)
+
+Adamantite MaskAdamantite Mask	
+
+    Adamantite BarAdamantite Bar (12)
+
+Adamantite PickaxeAdamantite Pickaxe	
+
+    Adamantite BarAdamantite Bar (18)
+
+Adamantite RepeaterAdamantite Repeater	
+
+    Adamantite BarAdamantite Bar (12)
+
+Adamantite SwordAdamantite Sword	
+
+    Adamantite BarAdamantite Bar (12)
+
+Adamantite WaraxeAdamantite Waraxe	
+
+    Adamantite BarAdamantite Bar (12)
+    Turtle HelmetTurtle Helmet
+
+Beetle LeggingsBeetle Leggings	
+
+    Beetle HuskBeetle Husk (6)
+    Turtle LeggingsTurtle Leggings
+
+Beetle Scale MailBeetle Scale Mail	
+
+    Beetle HuskBeetle Husk (8)
+    Turtle Scale MailTurtle Scale Mail
+
+Beetle ShellBeetle Shell	
+
+    Beetle HuskBeetle Husk (8)
+    Turtle Scale MailTurtle Scale Mail
+
+Beetle WingsBeetle Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Beetle HuskBeetle Husk (8)
+
+Bone WingsBone Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Bone FeatherBone Feather
+
+Butterfly WingsButterfly Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Butterfly DustButterfly Dust
+
+ChikChik	
+
+    Wooden YoyoWooden Yoyo
+    Crystal ShardCrystal Shard (15)
+    Soul of LightSoul of Light (10)
+
+Chlorophyte ChainsawChlorophyte Chainsaw	
+
+    Chlorophyte BarChlorophyte Bar (18)
+
+Chlorophyte ClaymoreChlorophyte Claymore	
+
+    Chlorophyte BarChlorophyte Bar (12)
+
+Chlorophyte DrillChlorophyte Drill	
+
+    Chlorophyte BarChlorophyte Bar (18)
+
+Chlorophyte ExtractinatorChlorophyte Extractinator	
+
+    Chlorophyte BarChlorophyte Bar (18)
+    ExtractinatorExtractinator
+
+Chlorophyte GreataxeChlorophyte Greataxe	
+
+    Chlorophyte BarChlorophyte Bar (18)
+
+Chlorophyte GreavesChlorophyte Greaves	
+
+    Chlorophyte BarChlorophyte Bar (18)
+
+Chlorophyte HeadgearChlorophyte Headgear	
+
+    Chlorophyte BarChlorophyte Bar (12)
+
+Chlorophyte HelmetChlorophyte Helmet	
+
+    Chlorophyte BarChlorophyte Bar (12)
+
+Chlorophyte JackhammerChlorophyte Jackhammer	
+
+    Chlorophyte BarChlorophyte Bar (18)
+
+Chlorophyte MaskChlorophyte Mask	
+
+    Chlorophyte BarChlorophyte Bar (12)
+
+Chlorophyte PartisanChlorophyte Partisan	
+
+    Chlorophyte BarChlorophyte Bar (12)
+
+Chlorophyte PickaxeChlorophyte Pickaxe	
+
+    Chlorophyte BarChlorophyte Bar (18)
+
+Chlorophyte Plate MailChlorophyte Plate Mail	
+
+    Chlorophyte BarChlorophyte Bar (24)
+
+Chlorophyte SaberChlorophyte Saber	
+
+    Chlorophyte BarChlorophyte Bar (12)
+
+Chlorophyte ShotbowChlorophyte Shotbow	
+
+    Chlorophyte BarChlorophyte Bar (12)
+
+Chlorophyte WarhammerChlorophyte Warhammer	
+
+    Chlorophyte BarChlorophyte Bar (18)
+
+Cool WhipCool Whip	
+
+    Soul of LightSoul of Light (8)
+    Soul of NightSoul of Night (8)
+    Frost CoreFrost Core
+
+Dao of PowDao of Pow	
+
+    Dark ShardDark Shard
+    Light ShardLight Shard
+    Soul of NightSoul of Night (7)
+    Soul of LightSoul of Light (7)
+
+DraxDrax	
+
+    Hallowed BarHallowed Bar (18)
+    Soul of FrightSoul of Fright
+    Soul of MightSoul of Might
+    Soul of SightSoul of Sight
+
+Drill Containment UnitDrill Containment Unit	
+
+    Luminite BarLuminite Bar (40)
+    Chlorophyte BarChlorophyte Bar (40)
+    Shroomite BarShroomite Bar (40)
+    Spectre BarSpectre Bar (40)
+    Hellstone BarHellstone Bar (40)
+    Meteorite BarMeteorite Bar (40)
+
+DurendalDurendal	
+
+    Hallowed BarHallowed Bar (12)
+
+ExcaliburExcalibur	
+
+    Hallowed BarHallowed Bar (12)
+
+Flame WingsFlame Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Fire FeatherFire Feather
+
+FlamethrowerFlamethrower	
+
+    Any Iron BarAny Iron Bar (20)
+    Illegal Gun PartsIllegal Gun Parts
+    Soul of FrightSoul of Fright (20)
+
+Forbidden MaskForbidden Mask	
+
+    Adamantite BarAdamantite Bar (10)
+    Forbidden FragmentForbidden Fragment
+
+    Titanium BarTitanium Bar (10)
+    Forbidden FragmentForbidden Fragment
+
+Forbidden RobesForbidden Robes	
+
+    Adamantite BarAdamantite Bar (20)
+    Forbidden FragmentForbidden Fragment
+
+    Titanium BarTitanium Bar (20)
+    Forbidden FragmentForbidden Fragment
+
+Forbidden TreadsForbidden Treads	
+
+    Adamantite BarAdamantite Bar (16)
+    Forbidden FragmentForbidden Fragment
+
+    Titanium BarTitanium Bar (16)
+    Forbidden FragmentForbidden Fragment
+
+Frozen WingsFrozen Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Ice FeatherIce Feather
+
+GungnirGungnir	
+
+    Hallowed BarHallowed Bar (12)
+
+Hallowed GreavesHallowed Greaves	
+
+    Hallowed BarHallowed Bar (18)
+
+Hallowed HeadgearHallowed Headgear	
+
+    Hallowed BarHallowed Bar (12)
+
+Hallowed HelmetHallowed Helmet	
+
+    Hallowed BarHallowed Bar (12)
+
+Hallowed HoodHallowed Hood	
+
+    Hallowed BarHallowed Bar (12)
+
+Hallowed Jousting LanceHallowed Jousting Lance	
+
+    Hallowed BarHallowed Bar (12)
+
+Hallowed MaskHallowed Mask	
+
+    Hallowed BarHallowed Bar (12)
+
+Hallowed Plate MailHallowed Plate Mail	
+
+    Hallowed BarHallowed Bar (24)
+
+Hallowed RepeaterHallowed Repeater	
+
+    Hallowed BarHallowed Bar (12)
+
+Harpy WingsHarpy Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Giant Harpy FeatherGiant Harpy Feather
+
+HoverboardHoverboard	
+
+    Soul of FlightSoul of Flight (20)
+    Shroomite BarShroomite Bar (18)
+
+Liquid Sensor (Any)Liquid Sensor (Any)	
+
+    CogCog (5)
+    Magic Water DropperMagic Water Dropper
+    Magic Lava DropperMagic Lava Dropper
+    Magic Honey DropperMagic Honey Dropper
+    WireWire
+
+Liquid Sensor (Honey)Liquid Sensor (Honey)	
+
+    CogCog (5)
+    Magic Honey DropperMagic Honey Dropper
+    WireWire
+
+Liquid Sensor (Lava)Liquid Sensor (Lava)	
+
+    CogCog (5)
+    Magic Lava DropperMagic Lava Dropper
+    WireWire
+
+Liquid Sensor (Water)Liquid Sensor (Water)	
+
+    CogCog (5)
+    Magic Water DropperMagic Water Dropper
+    WireWire
+
+Logic Sensor (Day)Logic Sensor (Day)	
+
+    Soul of LightSoul of Light (5)
+    Any Iron BarAny Iron Bar
+    WireWire
+
+Logic Sensor (Night)Logic Sensor (Night)	
+
+    Soul of NightSoul of Night (5)
+    Any Iron BarAny Iron Bar
+    WireWire
+
+Logic Sensor (Player Above)Logic Sensor (Player Above)	
+
+    Soul of SightSoul of Sight
+    Any Iron BarAny Iron Bar
+    WireWire
+
+Mechanical EyeMechanical Eye	
+
+    LensLens (3)
+    Any Iron BarAny Iron Bar (5)
+    Soul of LightSoul of Light (6)
+
+Mechanical SkullMechanical Skull	
+
+    BoneBone (30)
+    Any Iron BarAny Iron Bar (5)
+    Soul of LightSoul of Light (3)
+    Soul of NightSoul of Night (3)
+
+Mechanical WormMechanical Worm	
+
+    Rotten ChunkRotten Chunk (6)
+    Any Iron BarAny Iron Bar (5)
+    Soul of NightSoul of Night (6)
+
+    VertebraVertebra (6)
+    Any Iron BarAny Iron Bar (5)
+    Soul of NightSoul of Night (6)
+
+MegasharkMegashark	
+
+    MinisharkMinishark
+    Illegal Gun PartsIllegal Gun Parts
+    Shark FinShark Fin (5)
+    Soul of MightSoul of Might (20)
+
+Meteor StaffMeteor Staff	
+
+    Meteorite BarMeteorite Bar (20)
+    Pixie DustPixie Dust (10)
+    Soul of LightSoul of Light (10)
+
+Minecart Upgrade KitMinecart Upgrade Kit	
+
+    Mechanical Wheel PieceMechanical Wheel Piece
+    Mechanical Wagon PieceMechanical Wagon Piece
+    Mechanical Battery PieceMechanical Battery Piece
+
+Mythril ChainmailMythril Chainmail	
+
+    Mythril BarMythril Bar (20)
+
+Mythril ChainsawMythril Chainsaw	
+
+    Mythril BarMythril Bar (10)
+
+Mythril DrillMythril Drill	
+
+    Mythril BarMythril Bar (15)
+
+Mythril GreavesMythril Greaves	
+
+    Mythril BarMythril Bar (15)
+
+Mythril HalberdMythril Halberd	
+
+    Mythril BarMythril Bar (10)
+
+Mythril HatMythril Hat	
+
+    Mythril BarMythril Bar (10)
+
+Mythril HelmetMythril Helmet	
+
+    Mythril BarMythril Bar (10)
+
+Mythril HoodMythril Hood	
+
+    Mythril BarMythril Bar (10)
+
+Mythril PickaxeMythril Pickaxe	
+
+    Mythril BarMythril Bar (15)
+
+Mythril RepeaterMythril Repeater	
+
+    Mythril BarMythril Bar (10)
+
+Mythril WaraxeMythril Waraxe	
+
+    Mythril BarMythril Bar (10)
+
+Naughty PresentNaughty Present	
+
+    SilkSilk (20)
+    EctoplasmEctoplasm (5)
+    Soul of FrightSoul of Fright (5)
+
+Ocram's RazorOcram's Razor	
+
+    Mechanical EyeMechanical Eye
+    Mechanical SkullMechanical Skull
+    Mechanical WormMechanical Worm
+
+Onyx BlasterOnyx Blaster	
+
+    ShotgunShotgun
+    Dark ShardDark Shard (2)
+    Soul of NightSoul of Night (10)
+
+Optic StaffOptic Staff	
+
+    Black LensBlack Lens
+    LensLens (2)
+    Hallowed BarHallowed Bar (12)
+    Soul of SightSoul of Sight (20)
+
+Orange PhasesaberOrange Phasesaber	
+
+    Orange PhasebladeOrange Phaseblade
+    Crystal ShardCrystal Shard (25)
+
+Orichalcum BreastplateOrichalcum Breastplate	
+
+    Orichalcum BarOrichalcum Bar (24)
+
+Orichalcum ChainsawOrichalcum Chainsaw	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Orichalcum DrillOrichalcum Drill	
+
+    Orichalcum BarOrichalcum Bar (18)
+
+Orichalcum HalberdOrichalcum Halberd	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Orichalcum HeadgearOrichalcum Headgear	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Orichalcum HelmetOrichalcum Helmet	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Orichalcum LeggingsOrichalcum Leggings	
+
+    Orichalcum BarOrichalcum Bar (18)
+
+Orichalcum MaskOrichalcum Mask	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Orichalcum PickaxeOrichalcum Pickaxe	
+
+    Orichalcum BarOrichalcum Bar (18)
+
+Orichalcum RepeaterOrichalcum Repeater	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Orichalcum WaraxeOrichalcum Waraxe	
+
+    Orichalcum BarOrichalcum Bar (12)
+
+Pickaxe AxePickaxe Axe	
+
+    Hallowed BarHallowed Bar (18)
+    Soul of FrightSoul of Fright
+    Soul of MightSoul of Might
+    Soul of SightSoul of Sight
+
+Pumpkin Moon MedallionPumpkin Moon Medallion	
+
+    PumpkinPumpkin (30)
+    EctoplasmEctoplasm (5)
+    Hallowed BarHallowed Bar (10)
+
+Shroomite BreastplateShroomite Breastplate	
+
+    Shroomite BarShroomite Bar (24)
+
+Shroomite Digging ClawShroomite Digging Claw	
+
+    Shroomite BarShroomite Bar (18)
+
+Shroomite HeadgearShroomite Headgear	
+
+    Shroomite BarShroomite Bar (12)
+
+Shroomite HelmetShroomite Helmet	
+
+    Shroomite BarShroomite Bar (12)
+
+Shroomite LeggingsShroomite Leggings	
+
+    Shroomite BarShroomite Bar (18)
+
+Shroomite MaskShroomite Mask	
+
+    Shroomite BarShroomite Bar (12)
+
+Sky FractureSky Fracture	
+
+    Magic MissileMagic Missile
+    Light ShardLight Shard (2)
+    Soul of LightSoul of Light (16)
+
+Solar TabletSolar Tablet	
+
+    Solar Tablet FragmentSolar Tablet Fragment (8)
+
+Spectre HamaxeSpectre Hamaxe	
+
+    Spectre BarSpectre Bar (18)
+
+Spectre HoodSpectre Hood	
+
+    Spectre BarSpectre Bar (12)
+
+Spectre MaskSpectre Mask	
+
+    Spectre BarSpectre Bar (12)
+
+Spectre Paint RollerSpectre Paint Roller	
+
+    Spectre BarSpectre Bar (8)
+
+Spectre Paint ScraperSpectre Paint Scraper	
+
+    Spectre BarSpectre Bar (8)
+
+Spectre PaintbrushSpectre Paintbrush	
+
+    Spectre BarSpectre Bar (8)
+
+Spectre PantsSpectre Pants	
+
+    Spectre BarSpectre Bar (18)
+
+Spectre PickaxeSpectre Pickaxe	
+
+    Spectre BarSpectre Bar (18)
+
+Spectre RobeSpectre Robe	
+
+    Spectre BarSpectre Bar (24)
+
+Spectre WingsSpectre Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Spectre BarSpectre Bar (10)
+
+Spirit FlameSpirit Flame	
+
+    Desert Spirit LampDesert Spirit Lamp
+    Forbidden FragmentForbidden Fragment (2)
+    Soul of NightSoul of Night (12)
+
+Spooky WingsSpooky Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Spooky TwigSpooky Twig
+
+Super Star ShooterSuper Star Shooter	
+
+    Hallowed BarHallowed Bar (12)
+    Star CannonStar Cannon
+
+Tattered Fairy WingsTattered Fairy Wings	
+
+    Soul of FlightSoul of Flight (20)
+    Black Fairy DustBlack Fairy Dust
+
+Titanium BreastplateTitanium Breastplate	
+
+    Titanium BarTitanium Bar (26)
+
+Titanium ChainsawTitanium Chainsaw	
+
+    Titanium BarTitanium Bar (13)
+
+Titanium DrillTitanium Drill	
+
+    Titanium BarTitanium Bar (20)
+
+Titanium ForgeTitanium Forge	
+
+    Titanium OreTitanium Ore (30)
+    HellforgeHellforge
+
+Titanium HeadgearTitanium Headgear	
+
+    Titanium BarTitanium Bar (13)
+
+Titanium HelmetTitanium Helmet	
+
+    Titanium BarTitanium Bar (13)
+
+Titanium LeggingsTitanium Leggings	
+
+    Titanium BarTitanium Bar (20)
+
+Titanium MaskTitanium Mask	
+
+    Titanium BarTitanium Bar (13)
+
+Titanium PickaxeTitanium Pickaxe	
+
+    Titanium BarTitanium Bar (20)
+
+Titanium RepeaterTitanium Repeater	
+
+    Titanium BarTitanium Bar (13)
+
+Titanium SwordTitanium Sword	
+
+    Titanium BarTitanium Bar (13)
+
+Titanium TridentTitanium Trident	
+
+    Titanium BarTitanium Bar (13)
+
+Titanium WaraxeTitanium Waraxe	
+
+    Titanium BarTitanium Bar (13)
+
+Turtle HelmetTurtle Helmet	
+
+    Chlorophyte BarChlorophyte Bar (12)
+    Turtle ShellTurtle Shell
+
+Turtle LeggingsTurtle Leggings	
+
+    Chlorophyte BarChlorophyte Bar (18)
+    Turtle ShellTurtle Shell
+
+Turtle Scale MailTurtle Scale Mail	
+
+    Chlorophyte BarChlorophyte Bar (24)
+    Turtle ShellTurtle Shell
+
+Venom ArrowVenom Arrow (35)	
+
+    Wooden ArrowWooden Arrow (35)
+    Vial of VenomVial of Venom
+
+Venom StaffVenom Staff	
+
+    Poison StaffPoison Staff
+    Chlorophyte BarChlorophyte Bar (14)
+
+True Night's EdgeTrue Night's Edge	
+
+    Night's EdgeNight's Edge
+    Soul of FrightSoul of Fright (20)
+    Soul of MightSoul of Might (20)
+    Soul of SightSoul of Sight (20)
+
+Terra BladeTerra Blade	
+
+    True Night's EdgeTrue Night's Edge
+    True ExcaliburTrue Excalibur
+    Broken Hero SwordBroken Hero Sword
+
+ZenithZenith	
+
+    Terra BladeTerra Blade
+    MeowmereMeowmere
+    Star WrathStar Wrath
+    Influx WaverInflux Waver
+    The Horseman's BladeThe Horseman's Blade
+    SeedlerSeedler
+    StarfuryStarfury
+    Bee KeeperBee Keeper
+    Enchanted SwordEnchanted Sword
+    Copper ShortswordCopper Shortsword

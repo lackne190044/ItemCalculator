@@ -1,0 +1,74 @@
+Ancient Hallowed GreavesAncient Hallowed Greaves	
+
+    Hallowed BarHallowed Bar (18)
+
+Ancient Hallowed HeadgearAncient Hallowed Headgear	
+
+    Hallowed BarHallowed Bar (12)
+
+Ancient Hallowed HelmetAncient Hallowed Helmet	
+
+    Hallowed BarHallowed Bar (12)
+
+Ancient Hallowed HoodAncient Hallowed Hood	
+
+    Hallowed BarHallowed Bar (12)
+
+Ancient Hallowed MaskAncient Hallowed Mask	
+
+    Hallowed BarHallowed Bar (12)
+
+Ancient Hallowed Plate MailAncient Hallowed Plate Mail	
+
+    Hallowed BarHallowed Bar (24)
+
+Bloody SpineBloody Spine	
+
+    Vicious PowderVicious Powder (30)
+    VertebraVertebra (15)
+
+Deer ThingDeer Thing	
+
+    Flinx FurFlinx Fur (3)
+    Crimtane OreCrimtane Ore (5)
+    LensLens
+
+    Flinx FurFlinx Fur (3)
+    Demonite OreDemonite Ore (5)
+    LensLens
+
+Night's EdgeNight's Edge	
+
+    Blood ButchererBlood Butcherer
+    MuramasaMuramasa
+    Blade of GrassBlade of Grass
+    VolcanoVolcano
+
+Suspicious Looking EyeSuspicious Looking Eye	
+
+    LensLens (6)
+
+Void BagVoid Bag	
+
+    BoneBone (30)
+    Jungle SporesJungle Spores (15)
+    Shadow ScaleShadow Scale (30)
+
+    BoneBone (30)
+    Jungle SporesJungle Spores (15)
+    Tissue SampleTissue Sample (30)
+
+Void VaultVoid Vault	
+
+    BoneBone (15)
+    Jungle SporesJungle Spores (8)
+    Tissue SampleTissue Sample (15)
+
+    BoneBone (15)
+    Jungle SporesJungle Spores (8)
+    Shadow ScaleShadow Scale (15)
+
+Worm FoodWorm Food	
+
+    Vile PowderVile Powder (30)
+    Rotten ChunkRotten Chunk (15)
