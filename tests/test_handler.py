@@ -1,4 +1,6 @@
 import os
+from src import item_handler
+from src import populate_all
 
 class TestHandler:
     def remove_files(self, files: list):
@@ -10,4 +12,7 @@ class TestHandler:
         for i in folders:
             if os.path.exists(i):
                 os.rmdir(i)
+
+    def populate(self):
+        populate_all("tmp/items.db")
 

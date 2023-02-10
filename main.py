@@ -32,13 +32,13 @@ def check_input(key: keyboard.Key|keyboard.KeyCode|None) -> bool:
             running = False
     return False
 
-def search_resources():
+def search_resources(item_name = None):
     to_split = 0
     os.system("clear")
     item_handler = ItemHandler(DB)
     recipe_handler = RecipeHandler(DB)
-    item_name = input("What item do you want the resources of: ")
-    # item_name = "Zenith"
+    if item_name is None:
+        item_name = input("What item do you want the resources of: ")
     for i in range(len(item_name)):
         if item_name[i] in "1234567890":
             to_split = i + 1
